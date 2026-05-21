@@ -1,0 +1,1110 @@
+2026-05-20 15:10:48,719 | INFO | LOGGER IS WORKING
+2026-05-20 15:10:48,726 | INFO | Test data loaded successfully
+2026-05-20 15:11:35,601 | INFO | Nykaa website opened
+2026-05-20 15:11:41,538 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 15:11:42,103 | INFO | Sign In clicked
+2026-05-20 15:11:48,473 | INFO | Mobile / Email option selected
+2026-05-20 15:12:05,359 | INFO | Skip clicked
+2026-05-20 15:12:11,561 | INFO | Hovered on Skin menu
+2026-05-20 15:12:14,071 | INFO | Moisturizer category clicked
+2026-05-20 15:12:21,273 | INFO | Switched to moisturizer tab
+2026-05-20 15:12:23,049 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 15:12:30,474 | INFO | Cetaphil brand selected
+2026-05-20 15:12:36,024 | INFO | First product selected
+2026-05-20 15:12:42,220 | INFO | Switched to product page
+2026-05-20 15:12:45,530 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 15:12:48,738 | INFO | Product added to bag
+2026-05-20 15:12:57,027 | INFO | Cart opened
+2026-05-20 15:13:12,955 | INFO | Proceed button clicked successfully
+2026-05-20 15:13:18,708 | INFO | Closing browser
+2026-05-20 15:39:07,480 | INFO | test_nykaa_e2e
+2026-05-20 15:39:07,489 | INFO | Test data loaded successfully
+2026-05-20 15:39:35,532 | INFO | Nykaa website opened
+2026-05-20 15:39:44,546 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 15:39:46,551 | INFO | Sign In clicked
+2026-05-20 15:39:51,983 | INFO | Mobile / Email option selected
+2026-05-20 15:40:08,365 | INFO | Skip clicked
+2026-05-20 15:40:18,863 | INFO | Hovered on Skin menu
+2026-05-20 15:40:21,364 | INFO | Moisturizer category clicked
+2026-05-20 15:40:28,222 | INFO | Switched to moisturizer tab
+2026-05-20 15:40:28,919 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 15:40:30,951 | INFO | Cetaphil brand selected
+2026-05-20 15:40:36,970 | INFO | First product selected
+2026-05-20 15:40:42,719 | INFO | Switched to product page
+2026-05-20 15:40:46,073 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 15:40:47,789 | INFO | Product added to bag
+2026-05-20 15:40:53,444 | INFO | Cart opened
+2026-05-20 15:41:07,854 | INFO | Proceed button clicked successfully
+2026-05-20 15:41:13,980 | INFO | Closing browser
+2026-05-20 15:53:03,262 | INFO | test_nykaa_e2e
+2026-05-20 15:53:03,272 | INFO | Test data loaded successfully
+2026-05-20 15:53:23,993 | INFO | Nykaa website opened
+2026-05-20 15:53:30,153 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 15:53:31,130 | INFO | Sign In clicked
+2026-05-20 15:53:37,277 | INFO | Mobile / Email option selected
+2026-05-20 15:53:49,395 | INFO | Skip clicked
+2026-05-20 15:53:58,536 | INFO | Hovered on Skin menu
+2026-05-20 15:54:04,135 | INFO | Moisturizer category clicked
+2026-05-20 15:54:11,897 | INFO | Switched to moisturizer tab
+2026-05-20 15:54:20,406 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 15:54:23,621 | INFO | Cetaphil brand selected
+2026-05-20 15:54:29,475 | INFO | First product selected
+2026-05-20 15:54:35,895 | INFO | Switched to product page
+2026-05-20 15:54:39,141 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 15:54:44,164 | INFO | Product added to bag
+2026-05-20 15:54:49,282 | INFO | Cart opened
+2026-05-20 15:55:00,689 | INFO | Proceed button clicked successfully
+2026-05-20 15:55:05,980 | INFO | Closing browser
+2026-05-20 16:31:40,101 | INFO | test_nykaa_e2e
+2026-05-20 16:31:40,105 | INFO | Test data loaded successfully
+2026-05-20 16:32:03,930 | INFO | Nykaa website opened
+2026-05-20 16:32:09,905 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 16:32:14,319 | INFO | Sign In clicked
+2026-05-20 16:32:22,606 | INFO | Mobile / Email option selected
+2026-05-20 16:32:40,839 | INFO | Skip clicked
+2026-05-20 16:32:47,261 | INFO | Hovered on Skin menu
+2026-05-20 16:32:50,903 | INFO | Moisturizer category clicked
+2026-05-20 16:32:57,802 | INFO | Switched to moisturizer tab
+2026-05-20 16:33:02,091 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 16:33:05,192 | INFO | Cetaphil brand selected
+2026-05-20 16:33:10,795 | INFO | First product selected
+2026-05-20 16:33:17,881 | INFO | Switched to product page
+2026-05-20 16:33:21,699 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 16:33:22,885 | INFO | Product added to bag
+2026-05-20 16:33:28,459 | INFO | Cart opened
+2026-05-20 16:33:39,237 | INFO | Proceed button clicked successfully
+2026-05-20 16:33:44,609 | INFO | Closing browser
+2026-05-20 16:45:47,480 | INFO | test_nykaa_e2e
+2026-05-20 16:45:47,485 | INFO | Test data loaded successfully
+2026-05-20 16:46:20,509 | INFO | Nykaa website opened
+2026-05-20 16:46:25,701 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 16:46:28,441 | INFO | Sign In clicked
+2026-05-20 16:46:34,124 | INFO | Mobile / Email option selected
+2026-05-20 16:46:54,392 | INFO | Skip clicked
+2026-05-20 16:47:02,433 | INFO | Hovered on Skin menu
+2026-05-20 16:47:08,346 | INFO | Moisturizer category clicked
+2026-05-20 16:47:16,658 | INFO | Switched to moisturizer tab
+2026-05-20 16:47:18,653 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 16:47:22,434 | INFO | Cetaphil brand selected
+2026-05-20 16:47:28,238 | INFO | First product selected
+2026-05-20 16:47:35,125 | INFO | Switched to product page
+2026-05-20 16:47:38,788 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 16:47:40,340 | INFO | Product added to bag
+2026-05-20 16:47:45,799 | INFO | Cart opened
+2026-05-20 16:48:02,723 | INFO | Proceed button clicked successfully
+2026-05-20 16:48:07,898 | INFO | Closing browser
+2026-05-20 16:54:55,693 | INFO | test_nykaa_e2e
+2026-05-20 16:54:55,697 | INFO | Test data loaded successfully
+2026-05-20 16:55:25,747 | INFO | Nykaa website opened
+2026-05-20 16:55:32,424 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 16:55:35,440 | INFO | Sign In clicked
+2026-05-20 16:55:43,817 | INFO | Mobile / Email option selected
+2026-05-20 16:56:01,035 | INFO | Skip clicked
+2026-05-20 16:56:07,850 | INFO | Hovered on Skin menu
+2026-05-20 16:56:14,053 | INFO | Moisturizer category clicked
+2026-05-20 16:56:24,095 | INFO | Switched to moisturizer tab
+2026-05-20 16:56:26,949 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 16:56:31,862 | INFO | Cetaphil brand selected
+2026-05-20 16:56:37,381 | INFO | First product selected
+2026-05-20 16:56:44,057 | INFO | Switched to product page
+2026-05-20 16:56:46,677 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 16:56:48,342 | INFO | Product added to bag
+2026-05-20 16:56:53,858 | INFO | Cart opened
+2026-05-20 16:57:04,974 | INFO | Proceed button clicked successfully
+2026-05-20 16:57:11,322 | INFO | Closing browser
+2026-05-20 17:12:56,894 | INFO | test_nykaa_e2e
+2026-05-20 17:12:56,900 | INFO | Test data loaded successfully
+2026-05-20 17:13:22,242 | INFO | Nykaa website opened
+2026-05-20 17:13:27,506 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 17:13:31,494 | INFO | Sign In clicked
+2026-05-20 17:13:40,836 | INFO | Mobile / Email option selected
+2026-05-20 17:13:59,806 | INFO | Skip clicked
+2026-05-20 17:14:07,510 | INFO | Hovered on Skin menu
+2026-05-20 17:14:11,924 | INFO | Moisturizer category clicked
+2026-05-20 17:14:18,740 | INFO | Switched to moisturizer tab
+2026-05-20 17:14:21,349 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 17:14:26,116 | INFO | Cetaphil brand selected
+2026-05-20 17:14:31,562 | INFO | First product selected
+2026-05-20 17:14:37,417 | INFO | Switched to product page
+2026-05-20 17:14:41,378 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 17:14:48,072 | INFO | Product added to bag
+2026-05-20 17:14:53,788 | INFO | Cart opened
+2026-05-20 17:15:08,626 | INFO | Proceed button clicked successfully
+2026-05-20 17:15:17,233 | INFO | Closing browser
+2026-05-20 17:22:53,844 | INFO | test_nykaa_e2e
+2026-05-20 17:22:53,852 | INFO | Test data loaded successfully
+2026-05-20 17:23:20,126 | INFO | Nykaa website opened
+2026-05-20 17:23:25,662 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 17:23:28,262 | INFO | Sign In clicked
+2026-05-20 17:23:35,762 | INFO | Mobile / Email option selected
+2026-05-20 17:23:59,231 | INFO | Skip clicked
+2026-05-20 17:24:06,165 | INFO | Hovered on Skin menu
+2026-05-20 17:24:09,179 | INFO | Moisturizer category clicked
+2026-05-20 17:24:18,247 | INFO | Switched to moisturizer tab
+2026-05-20 17:24:21,518 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 17:24:29,035 | INFO | Cetaphil brand selected
+2026-05-20 17:24:34,705 | INFO | First product selected
+2026-05-20 17:24:43,909 | INFO | Switched to product page
+2026-05-20 17:24:48,230 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 17:24:59,245 | INFO | Product added to bag
+2026-05-20 17:25:07,017 | INFO | Cart opened
+2026-05-20 17:25:22,387 | INFO | Proceed button clicked successfully
+2026-05-20 17:25:27,809 | INFO | Closing browser
+2026-05-20 17:50:39,233 | INFO | test_nykaa_e2e
+2026-05-20 17:50:39,238 | INFO | Test data loaded successfully
+2026-05-20 17:51:29,132 | INFO | Nykaa website opened
+2026-05-20 17:51:34,180 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 17:51:36,915 | INFO | Sign In clicked
+2026-05-20 17:51:55,004 | INFO | Mobile / Email option selected
+2026-05-20 17:52:11,644 | INFO | Skip clicked
+2026-05-20 17:52:22,841 | INFO | Hovered on Skin menu
+2026-05-20 17:52:25,359 | INFO | Moisturizer category clicked
+2026-05-20 17:52:33,278 | INFO | Switched to moisturizer tab
+2026-05-20 17:52:34,290 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 17:52:41,923 | INFO | Cetaphil brand selected
+2026-05-20 17:52:55,675 | INFO | First product selected
+2026-05-20 17:53:01,192 | INFO | Switched to product page
+2026-05-20 17:53:02,214 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 17:53:12,114 | INFO | Product added to bag
+2026-05-20 17:53:18,432 | INFO | Cart opened
+2026-05-20 17:53:26,403 | INFO | Proceed button clicked successfully
+2026-05-20 17:53:31,567 | INFO | Closing browser
+2026-05-20 18:06:19,189 | INFO | test_nykaa_e2e
+2026-05-20 18:06:19,195 | INFO | Test data loaded successfully
+2026-05-20 18:06:46,377 | INFO | Nykaa website opened
+2026-05-20 18:06:52,796 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:06:57,614 | INFO | Sign In clicked
+2026-05-20 18:07:09,905 | INFO | Mobile / Email option selected
+2026-05-20 18:07:24,414 | INFO | Skip clicked
+2026-05-20 18:07:31,902 | INFO | Hovered on Skin menu
+2026-05-20 18:07:36,857 | INFO | Moisturizer category clicked
+2026-05-20 18:07:48,256 | INFO | Switched to moisturizer tab
+2026-05-20 18:07:52,603 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 18:08:00,636 | INFO | Cetaphil brand selected
+2026-05-20 18:08:07,663 | INFO | First product selected
+2026-05-20 18:08:15,179 | INFO | Switched to product page
+2026-05-20 18:08:17,256 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 18:08:26,227 | INFO | Product added to bag
+2026-05-20 18:08:34,595 | INFO | Cart opened
+2026-05-20 18:08:50,551 | INFO | Proceed button clicked successfully
+2026-05-20 18:08:57,048 | INFO | Closing browser
+2026-05-20 18:17:53,365 | INFO | test_nykaa_e2e
+2026-05-20 18:17:53,369 | INFO | Test data loaded successfully
+2026-05-20 18:18:13,763 | INFO | Nykaa website opened
+2026-05-20 18:18:19,944 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:18:22,812 | INFO | Sign In clicked
+2026-05-20 18:18:31,688 | INFO | Mobile / Email option selected
+2026-05-20 18:18:52,066 | INFO | Skip clicked
+2026-05-20 18:18:58,064 | INFO | Hovered on Skin menu
+2026-05-20 18:19:01,586 | INFO | Moisturizer category clicked
+2026-05-20 18:19:06,623 | INFO | Switched to moisturizer tab
+2026-05-20 18:19:29,852 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 18:20:00,420 | ERROR | Test Failed: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff714467de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff714467e50+14900]
+	chromedriver!(No symbol) [0x7ff7141cd5ad]
+	chromedriver!(No symbol) [0x7ff714227822]
+	chromedriver!(No symbol) [0x7ff714227b2c]
+	chromedriver!(No symbol) [0x7ff714277d17]
+	chromedriver!(No symbol) [0x7ff71427486f]
+	chromedriver!(No symbol) [0x7ff714219df8]
+	chromedriver!(No symbol) [0x7ff71421ace3]
+	chromedriver!GetHandleVerifier [0x7ff71477cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff714777375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff71479bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff714486045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff71448ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff714471bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff714471d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7144560e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffca77be957+17]
+	ntdll!RtlUserThreadStart [0x7ffca7f8427c+2c]
+
+2026-05-20 18:20:00,898 | INFO | Closing browser
+2026-05-20 18:20:27,261 | INFO | test_nykaa_e2e
+2026-05-20 18:20:27,277 | INFO | Test data loaded successfully
+2026-05-20 18:20:54,949 | INFO | Nykaa website opened
+2026-05-20 18:21:02,499 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:21:05,003 | INFO | Sign In clicked
+2026-05-20 18:21:12,290 | INFO | Mobile / Email option selected
+2026-05-20 18:21:27,222 | INFO | Skip clicked
+2026-05-20 18:21:34,857 | INFO | Hovered on Skin menu
+2026-05-20 18:21:38,480 | INFO | Moisturizer category clicked
+2026-05-20 18:21:53,032 | INFO | Switched to moisturizer tab
+2026-05-20 18:22:01,321 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 18:22:04,391 | INFO | Cetaphil brand selected
+2026-05-20 18:22:09,808 | INFO | First product selected
+2026-05-20 18:22:19,852 | INFO | Switched to product page
+2026-05-20 18:22:22,283 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 18:22:24,990 | INFO | Product added to bag
+2026-05-20 18:22:31,128 | INFO | Cart opened
+2026-05-20 18:22:44,616 | INFO | Proceed button clicked successfully
+2026-05-20 18:22:50,057 | INFO | Closing browser
+2026-05-20 18:29:20,446 | INFO | LOGGER IS WORKING
+2026-05-20 18:29:33,147 | INFO | Nykaa website opened
+2026-05-20 18:31:05,559 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:31:05,600 | ERROR | Test Failed: Moisturizer page not opened
+assert 'moisturizers' in 'https://www.nykaa.com/v2/payment/auth'
+ +  where 'https://www.nykaa.com/v2/payment/auth' = <built-in method lower of str object at 0x000001BA2E77CB20>()
+ +    where <built-in method lower of str object at 0x000001BA2E77CB20> = 'https://www.nykaa.com/v2/payment/auth'.lower
+ +      where 'https://www.nykaa.com/v2/payment/auth' = <selenium.webdriver.chrome.webdriver.WebDriver (session="c1c9e2ff0c703bbca4f911646f9d4167")>.current_url
+2026-05-20 18:31:06,075 | INFO | Closing browser
+2026-05-20 18:31:09,768 | INFO | test_nykaa_e2e
+2026-05-20 18:31:09,777 | INFO | Test data loaded successfully
+2026-05-20 18:31:27,247 | INFO | Nykaa website opened
+2026-05-20 18:31:33,256 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:31:35,987 | INFO | Sign In clicked
+2026-05-20 18:31:42,013 | INFO | Mobile / Email option selected
+2026-05-20 18:31:59,132 | INFO | Skip clicked
+2026-05-20 18:32:05,384 | INFO | Hovered on Skin menu
+2026-05-20 18:32:07,882 | INFO | Moisturizer category clicked
+2026-05-20 18:32:13,042 | INFO | Switched to moisturizer tab
+2026-05-20 18:32:14,103 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 18:32:16,614 | INFO | Cetaphil brand selected
+2026-05-20 18:32:22,177 | INFO | First product selected
+2026-05-20 18:32:27,406 | INFO | Switched to product page
+2026-05-20 18:32:28,119 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 18:32:29,923 | INFO | Product added to bag
+2026-05-20 18:32:35,344 | INFO | Cart opened
+2026-05-20 18:32:43,988 | INFO | Proceed button clicked successfully
+2026-05-20 18:32:49,106 | INFO | Closing browser
+2026-05-20 18:33:12,832 | INFO | LOGGER IS WORKING
+2026-05-20 18:33:16,488 | INFO | Nykaa website opened
+2026-05-20 18:34:50,197 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:34:50,245 | ERROR | Test Failed: Moisturizer page not opened
+assert 'moisturizers' in 'https://www.nykaa.com/v2/payment/auth'
+ +  where 'https://www.nykaa.com/v2/payment/auth' = <built-in method lower of str object at 0x000002CBF5E88F30>()
+ +    where <built-in method lower of str object at 0x000002CBF5E88F30> = 'https://www.nykaa.com/v2/payment/auth'.lower
+ +      where 'https://www.nykaa.com/v2/payment/auth' = <selenium.webdriver.chrome.webdriver.WebDriver (session="e6161888da96a3fd7f3411dc5e4932be")>.current_url
+2026-05-20 18:34:50,753 | INFO | Closing browser
+2026-05-20 18:34:54,685 | INFO | test_nykaa_e2e
+2026-05-20 18:34:54,693 | INFO | Test data loaded successfully
+2026-05-20 18:35:15,137 | INFO | Nykaa website opened
+2026-05-20 18:35:21,085 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:35:24,768 | INFO | Sign In clicked
+2026-05-20 18:35:31,633 | INFO | Mobile / Email option selected
+2026-05-20 18:35:50,148 | INFO | Skip clicked
+2026-05-20 18:35:56,641 | INFO | Hovered on Skin menu
+2026-05-20 18:36:04,452 | INFO | Moisturizer category clicked
+2026-05-20 18:36:10,811 | INFO | Switched to moisturizer tab
+2026-05-20 18:36:22,277 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 18:36:30,977 | INFO | Cetaphil brand selected
+2026-05-20 18:36:37,288 | INFO | First product selected
+2026-05-20 18:36:46,017 | INFO | Switched to product page
+2026-05-20 18:36:48,795 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 18:36:51,783 | INFO | Product added to bag
+2026-05-20 18:37:00,504 | INFO | Cart opened
+2026-05-20 18:37:15,923 | INFO | Proceed button clicked successfully
+2026-05-20 18:37:21,061 | INFO | Closing browser
+2026-05-20 18:40:33,414 | INFO | test_nykaa_e2e
+2026-05-20 18:40:33,417 | INFO | Test data loaded successfully
+2026-05-20 18:40:39,516 | INFO | Nykaa website opened
+2026-05-20 18:40:46,288 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:41:03,994 | INFO | Sign In clicked
+2026-05-20 18:41:11,337 | INFO | Mobile / Email option selected
+2026-05-20 18:41:26,148 | INFO | Skip clicked
+2026-05-20 18:41:32,305 | INFO | Hovered on Skin menu
+2026-05-20 18:41:36,512 | INFO | Moisturizer category clicked
+2026-05-20 18:41:49,837 | INFO | Switched to moisturizer tab
+2026-05-20 18:41:56,086 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 18:42:01,724 | INFO | Cetaphil brand selected
+2026-05-20 18:42:07,459 | INFO | First product selected
+2026-05-20 18:42:12,757 | INFO | Switched to product page
+2026-05-20 18:42:13,628 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 18:42:15,014 | INFO | Product added to bag
+2026-05-20 18:42:20,494 | INFO | Cart opened
+2026-05-20 18:42:29,152 | INFO | Proceed button clicked successfully
+2026-05-20 18:42:34,342 | INFO | Closing browser
+2026-05-20 18:44:27,649 | INFO | test_nykaa_e2e
+2026-05-20 18:44:27,652 | INFO | Test data loaded successfully
+2026-05-20 18:44:32,822 | INFO | Nykaa website opened
+2026-05-20 18:44:37,922 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:44:40,443 | INFO | Sign In clicked
+2026-05-20 18:44:44,814 | INFO | Mobile / Email option selected
+2026-05-20 18:45:00,192 | INFO | Skip clicked
+2026-05-20 18:45:06,372 | INFO | Hovered on Skin menu
+2026-05-20 18:45:09,330 | INFO | Moisturizer category clicked
+2026-05-20 18:45:22,285 | INFO | Switched to moisturizer tab
+2026-05-20 18:45:24,703 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 18:45:28,289 | INFO | Cetaphil brand selected
+2026-05-20 18:45:33,830 | INFO | First product selected
+2026-05-20 18:45:39,361 | INFO | Switched to product page
+2026-05-20 18:45:40,220 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 18:45:41,697 | INFO | Product added to bag
+2026-05-20 18:45:47,148 | INFO | Cart opened
+2026-05-20 18:45:56,505 | INFO | Proceed button clicked successfully
+2026-05-20 18:46:01,639 | INFO | Closing browser
+2026-05-20 18:50:54,390 | INFO | test_nykaa_e2e
+2026-05-20 18:50:54,393 | INFO | Test data loaded successfully
+2026-05-20 18:51:02,986 | INFO | Nykaa website opened
+2026-05-20 18:51:08,028 | INFO | ASSERT PASSED: Homepage opened
+2026-05-20 18:51:08,927 | INFO | Sign In clicked
+2026-05-20 18:51:15,946 | INFO | Mobile / Email option selected
+2026-05-20 18:51:29,372 | INFO | Skip clicked
+2026-05-20 18:51:35,032 | INFO | Hovered on Skin menu
+2026-05-20 18:51:37,582 | INFO | Moisturizer category clicked
+2026-05-20 18:51:43,058 | INFO | Switched to moisturizer tab
+2026-05-20 18:51:43,381 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 18:51:45,360 | INFO | Cetaphil brand selected
+2026-05-20 18:51:50,690 | INFO | First product selected
+2026-05-20 18:51:56,019 | INFO | Switched to product page
+2026-05-20 18:51:56,290 | INFO | ASSERT PASSED: Product page opened
+2026-05-20 18:51:57,123 | INFO | Product added to bag
+2026-05-20 18:52:02,393 | INFO | Cart opened
+2026-05-20 18:52:11,199 | INFO | Proceed button clicked successfully
+2026-05-20 18:52:16,333 | INFO | Closing browser
+2026-05-20 19:11:04,537 | INFO | Opening Nykaa homepage
+2026-05-20 19:11:09,967 | INFO | ASSERT PASSED: Homepage loaded
+2026-05-20 19:11:14,457 | INFO | Browser closed
+2026-05-20 19:11:42,008 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 19:11:44,661 | INFO | Browser closed
+2026-05-20 19:12:13,624 | INFO | ASSERT PASSED: Brand filter applied
+2026-05-20 19:12:16,803 | INFO | Browser closed
+2026-05-20 19:12:53,152 | INFO | ASSERT PASSED: Product added to cart
+2026-05-20 19:12:56,290 | INFO | Browser closed
+2026-05-20 19:26:57,412 | INFO | START TEST: test_nykaa_e2e
+2026-05-20 19:27:09,684 | INFO | Homepage opened
+2026-05-20 19:27:52,870 | INFO | TEST COMPLETED SUCCESSFULLY
+2026-05-20 19:27:52,872 | INFO | Closing browser
+2026-05-20 20:19:22,245 | INFO | START TEST: test_nykaa_e2e
+2026-05-20 20:19:22,251 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-20 20:19:22,252 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-20 20:19:28,115 | INFO | OPEN | Nykaa website launched
+2026-05-20 20:19:38,149 | INFO | ASSERT | Homepage loaded successfully
+2026-05-20 20:19:38,152 | INFO | CLICK | Sign In button clicked
+2026-05-20 20:19:46,395 | INFO | SELECT | Mobile / Email option selected
+2026-05-20 20:19:50,617 | INFO | CLICK | Skip login clicked
+2026-05-20 20:19:58,987 | INFO | HOVER | Hovering on Skin menu
+2026-05-20 20:20:00,051 | INFO | CLICK | Clicking Moisturizer category
+2026-05-20 20:20:08,070 | INFO | ASSERT | Moisturizer page validated
+2026-05-20 20:20:08,070 | INFO | SELECT | Brand selected from Excel: Cetaphil
+2026-05-20 20:20:11,023 | INFO | CLICK | First product selected
+2026-05-20 20:20:16,475 | INFO | ASSERT | Product page validated
+2026-05-20 20:20:16,476 | INFO | ACTION | Product added to bag
+2026-05-20 20:20:36,624 | INFO | Closing browser
+2026-05-20 20:20:54,702 | INFO | START TEST: test_nykaa_e2e
+2026-05-20 20:20:54,711 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-20 20:20:54,711 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-20 20:20:58,877 | INFO | OPEN | Nykaa website launched
+2026-05-20 20:21:20,701 | INFO | ASSERT | Homepage loaded successfully
+2026-05-20 20:21:20,705 | INFO | CLICK | Sign In button clicked
+2026-05-20 20:21:24,420 | INFO | SELECT | Mobile / Email option selected
+2026-05-20 20:21:27,842 | INFO | CLICK | Skip login clicked
+2026-05-20 20:21:37,164 | INFO | HOVER | Hovering on Skin menu
+2026-05-20 20:21:37,554 | INFO | CLICK | Clicking Moisturizer category
+2026-05-20 20:21:43,810 | INFO | ASSERT | Moisturizer page validated
+2026-05-20 20:21:43,812 | INFO | SELECT | Brand selected from Excel: Cetaphil
+2026-05-20 20:21:46,400 | INFO | CLICK | First product selected
+2026-05-20 20:21:54,152 | INFO | ASSERT | Product page validated
+2026-05-20 20:21:54,155 | INFO | ACTION | Product added to bag
+2026-05-20 20:21:55,501 | INFO | NAVIGATE | Cart opened
+2026-05-20 20:21:59,668 | INFO | ACTION | Proceed button clicked
+2026-05-20 20:22:05,942 | INFO | E2E TEST COMPLETED SUCCESSFULLY
+2026-05-20 20:22:05,943 | INFO | Closing browser
+2026-05-20 20:24:11,885 | INFO | Opening Nykaa homepage
+2026-05-20 20:24:15,486 | INFO | ASSERT PASSED: Homepage loaded
+2026-05-20 20:24:17,824 | INFO | Browser closed
+2026-05-20 20:24:55,630 | INFO | ASSERT PASSED: Moisturizer page opened
+2026-05-20 20:24:58,557 | INFO | Browser closed
+2026-05-20 20:25:32,001 | INFO | ASSERT PASSED: Brand filter applied
+2026-05-20 20:25:34,362 | INFO | Browser closed
+2026-05-20 20:26:17,064 | INFO | ASSERT PASSED: Product added to cart
+2026-05-20 20:26:20,147 | INFO | Browser closed
+2026-05-20 21:21:30,062 | INFO | START TEST: test_nykaa_e2e
+2026-05-20 21:21:30,084 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-20 21:21:30,087 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-20 21:21:35,711 | INFO | PT_1 | Open Nykaa website
+2026-05-20 21:22:24,226 | INFO | PT_2 | Open Nykaa
+2026-05-20 21:23:08,964 | INFO | PT_2 | Cart opened successfully
+2026-05-20 21:23:17,623 | INFO | PT_3 | Open Nykaa
+2026-05-20 21:23:46,587 | INFO | PT_3 | Price filter applied
+2026-05-20 21:29:24,409 | INFO | PT_1 | Open Nykaa website
+2026-05-20 21:29:56,781 | INFO | PT_2 | Open Nykaa
+2026-05-20 21:30:34,645 | INFO | PT_2 | Cart opened
+2026-05-20 21:30:39,159 | INFO | PT_3 | Open Nykaa
+2026-05-20 21:31:20,643 | INFO | PT_3 | Price filter applied
+2026-05-20 21:42:39,305 | INFO | START TEST: test_nykaa_e2e
+2026-05-20 21:42:39,318 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-20 21:42:39,318 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-20 21:42:40,896 | INFO | OPEN | Nykaa website launched
+2026-05-20 21:42:53,796 | INFO | ASSERT | Homepage loaded successfully
+2026-05-20 21:42:53,862 | INFO | CLICK | Sign In button clicked
+2026-05-20 21:43:01,938 | INFO | SELECT | Mobile / Email option selected
+2026-05-20 21:43:05,226 | INFO | CLICK | Skip login clicked
+2026-05-20 21:43:10,051 | INFO | HOVER | Hovering on Skin menu
+2026-05-20 21:43:12,724 | INFO | CLICK | Clicking Moisturizer category
+2026-05-20 21:43:16,568 | INFO | ASSERT | Moisturizer page validated
+2026-05-20 21:43:16,569 | INFO | SELECT | Brand selected from Excel: Cetaphil
+2026-05-20 21:43:19,471 | INFO | CLICK | First product selected
+2026-05-20 21:43:24,949 | INFO | ASSERT | Product page validated
+2026-05-20 21:43:24,951 | INFO | ACTION | Product added to bag
+2026-05-20 21:43:55,121 | ERROR | TEST FAILED: Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7b4b17de5+14895]
+	chromedriver!GetHandleVerifier [0x7ff7b4b17e50+14900]
+	chromedriver!(No symbol) [0x7ff7b487d5ad]
+	chromedriver!(No symbol) [0x7ff7b48d7822]
+	chromedriver!(No symbol) [0x7ff7b48d7b2c]
+	chromedriver!(No symbol) [0x7ff7b4927d17]
+	chromedriver!(No symbol) [0x7ff7b492486f]
+	chromedriver!(No symbol) [0x7ff7b48c9df8]
+	chromedriver!(No symbol) [0x7ff7b48cace3]
+	chromedriver!GetHandleVerifier [0x7ff7b4e2cc49+3296f9]
+	chromedriver!GetHandleVerifier [0x7ff7b4e27375+323e25]
+	chromedriver!GetHandleVerifier [0x7ff7b4e4bc82+348732]
+	chromedriver!GetHandleVerifier [0x7ff7b4b36045+32af5]
+	chromedriver!GetHandleVerifier [0x7ff7b4b3ecec+3b79c]
+	chromedriver!GetHandleVerifier [0x7ff7b4b21bc4+1e674]
+	chromedriver!GetHandleVerifier [0x7ff7b4b21d54+1e804]
+	chromedriver!GetHandleVerifier [0x7ff7b4b060e7+2b97]
+	KERNEL32!BaseThreadInitThunk [0x7ffca77be957+17]
+	ntdll!RtlUserThreadStart [0x7ffca7f8427c+2c]
+
+2026-05-20 21:43:55,261 | INFO | Closing browser
+2026-05-20 21:44:14,186 | INFO | START TEST: test_nykaa_e2e
+2026-05-20 21:44:14,189 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-20 21:44:14,189 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-20 21:44:15,214 | INFO | OPEN | Nykaa website launched
+2026-05-20 21:44:33,497 | INFO | ASSERT | Homepage loaded successfully
+2026-05-20 21:44:33,501 | INFO | CLICK | Sign In button clicked
+2026-05-20 21:44:36,120 | INFO | SELECT | Mobile / Email option selected
+2026-05-20 21:44:38,375 | INFO | CLICK | Skip login clicked
+2026-05-20 21:44:43,248 | INFO | HOVER | Hovering on Skin menu
+2026-05-20 21:44:43,772 | INFO | CLICK | Clicking Moisturizer category
+2026-05-20 21:44:53,232 | INFO | ASSERT | Moisturizer page validated
+2026-05-20 21:44:53,234 | INFO | SELECT | Brand selected from Excel: Cetaphil
+2026-05-20 21:44:54,799 | INFO | CLICK | First product selected
+2026-05-20 21:44:59,327 | INFO | ASSERT | Product page validated
+2026-05-20 21:44:59,328 | INFO | ACTION | Product added to bag
+2026-05-20 21:45:03,233 | INFO | NAVIGATE | Cart opened
+2026-05-20 21:45:05,561 | INFO | ACTION | Proceed button clicked
+2026-05-20 21:45:12,258 | INFO | E2E TEST COMPLETED SUCCESSFULLY
+2026-05-20 21:45:12,260 | INFO | Closing browser
+2026-05-20 22:09:04,779 | INFO | START TEST: test_nykaa_e2e
+2026-05-20 22:09:04,784 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-20 22:09:04,784 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-20 22:09:05,943 | INFO | OPEN | Nykaa website launched
+2026-05-20 22:09:22,197 | INFO | ASSERT | Homepage loaded successfully
+2026-05-20 22:09:22,198 | INFO | CLICK | Sign In button clicked
+2026-05-20 22:09:23,213 | INFO | SELECT | Mobile / Email option selected
+2026-05-20 22:09:26,619 | INFO | CLICK | Skip login clicked
+2026-05-20 22:09:28,611 | INFO | HOVER | Hovering on Skin menu
+2026-05-20 22:09:28,961 | INFO | CLICK | Clicking Moisturizer category
+2026-05-20 22:09:31,812 | INFO | ASSERT | Moisturizer page validated
+2026-05-20 22:09:31,819 | INFO | SELECT | Brand selected from Excel: Cetaphil
+2026-05-20 22:09:33,979 | INFO | CLICK | First product selected
+2026-05-20 22:09:50,298 | INFO | ASSERT | Product page validated
+2026-05-20 22:09:50,298 | INFO | ACTION | Product added to bag
+2026-05-20 22:09:50,719 | INFO | NAVIGATE | Cart opened
+2026-05-20 22:09:52,673 | INFO | ACTION | Proceed button clicked
+2026-05-20 22:10:59,412 | INFO | E2E TEST COMPLETED SUCCESSFULLY
+2026-05-20 22:10:59,412 | INFO | Closing browser
+2026-05-20 22:12:06,198 | INFO | PT_1 | Open Nykaa website
+2026-05-20 22:12:39,569 | INFO | PT_2 | Open Nykaa
+2026-05-20 22:13:15,854 | INFO | PT_2 | Cart opened
+2026-05-20 22:13:20,509 | INFO | PT_3 | Open Nykaa
+2026-05-20 22:13:47,883 | INFO | PT_3 | Price filter applied
+2026-05-21 08:56:45,875 | INFO | PT_5 | Open Nykaa
+2026-05-21 08:56:47,394 | INFO | PT_5 | Navigate to moisturizer
+2026-05-21 08:56:49,084 | INFO | PT_5 | Select product
+2026-05-21 08:56:50,732 | INFO | PT_5 | Add to bag
+2026-05-21 08:56:53,502 | INFO | PT_5 | Open cart
+2026-05-21 08:56:54,885 | INFO | PT_5 | Remove product from cart
+2026-05-21 09:00:03,670 | INFO | PT_5 | Open Nykaa
+2026-05-21 09:00:05,778 | INFO | PT_5 | Navigate to moisturizer
+2026-05-21 09:00:07,056 | INFO | PT_5 | Select product
+2026-05-21 09:00:09,044 | INFO | PT_5 | Add to bag
+2026-05-21 09:00:10,591 | INFO | PT_5 | Open cart
+2026-05-21 09:00:11,246 | INFO | PT_5 | Remove product from cart
+2026-05-21 09:04:23,489 | INFO | PT_5 | Open Nykaa
+2026-05-21 09:04:25,412 | INFO | PT_5 | Navigate to moisturizer
+2026-05-21 09:04:26,662 | INFO | PT_5 | Select product
+2026-05-21 09:04:28,942 | INFO | PT_5 | Add to bag
+2026-05-21 09:04:37,819 | INFO | PT_5 | Open cart
+2026-05-21 09:04:44,015 | INFO | PT_5 | Remove product from cart
+2026-05-21 09:25:35,648 | INFO | PT_16 | Open Nykaa
+2026-05-21 09:33:17,539 | INFO | PT_6 | Open Nykaa
+2026-05-21 09:33:18,852 | INFO | PT_6 | Add first product
+2026-05-21 09:33:58,201 | INFO | PT_6 | Add second product
+2026-05-21 09:34:24,789 | INFO | PT_6 | Open cart with multiple products
+2026-05-21 09:34:27,049 | INFO | PT_6 | Cart validated
+2026-05-21 09:35:55,117 | INFO | PT_6 | Open Nykaa
+2026-05-21 09:35:56,597 | INFO | PT_6 | Add first product
+2026-05-21 09:36:33,504 | INFO | PT_6 | Add second product
+2026-05-21 09:37:00,459 | INFO | PT_6 | Open cart
+2026-05-21 09:37:04,077 | INFO | PT_6 | Cart items count: 0
+2026-05-21 09:48:36,793 | INFO | PT_6 | Open Nykaa
+2026-05-21 09:48:54,739 | INFO | PT_6 | Navigate to moisturizer
+2026-05-21 09:49:04,502 | INFO | PT_6 | Select first product
+2026-05-21 09:49:20,839 | INFO | PT_6 | Add same product first time
+2026-05-21 09:49:31,354 | INFO | PT_6 | Add same product second time
+2026-05-21 09:49:36,320 | INFO | PT_6 | Open cart
+2026-05-21 09:49:42,987 | INFO | PT_6 | Closing browser
+2026-05-21 09:52:45,216 | INFO | PT_6 | Open Nykaa
+2026-05-21 09:52:52,042 | INFO | PT_6 | Navigate to moisturizer
+2026-05-21 09:53:12,394 | INFO | PT_6 | Select first product
+2026-05-21 09:53:19,652 | INFO | PT_6 | Add same product first time
+2026-05-21 09:53:23,273 | INFO | PT_6 | Add same product second time
+2026-05-21 09:53:30,175 | INFO | PT_6 | Open cart
+2026-05-21 09:53:35,395 | INFO | ASSERT PASSED | Multiple quantity product added in cart
+2026-05-21 09:53:35,703 | INFO | PT_6 | Closing browser
+2026-05-21 09:59:18,585 | INFO | PT_6 | Open Nykaa
+2026-05-21 09:59:24,710 | INFO | PT_6 | Navigate to moisturizer
+2026-05-21 09:59:43,701 | INFO | PT_6 | Select first product
+2026-05-21 09:59:55,603 | INFO | PT_6 | Add same product first time
+2026-05-21 10:00:00,092 | INFO | PT_6 | Add same product second time
+2026-05-21 10:00:03,781 | INFO | PT_6 | Open cart
+2026-05-21 10:00:08,923 | INFO | PT_6 | Closing browser
+2026-05-21 10:03:11,973 | INFO | PT_6 | Open Nykaa
+2026-05-21 10:03:28,267 | INFO | PT_6 | Navigate to moisturizer
+2026-05-21 10:03:37,130 | INFO | PT_6 | Select first product
+2026-05-21 10:03:45,109 | INFO | PT_6 | Add same product first time
+2026-05-21 10:03:48,909 | INFO | PT_6 | Add same product second time
+2026-05-21 10:03:56,709 | INFO | PT_6 | Open cart
+2026-05-21 10:04:01,885 | INFO | PT_6 | Closing browser
+2026-05-21 10:07:54,488 | INFO | PT_6 | Open Nykaa
+2026-05-21 10:08:10,729 | INFO | PT_6 | Navigate to moisturizer
+2026-05-21 10:08:18,953 | INFO | PT_6 | Select first product
+2026-05-21 10:08:31,777 | INFO | PT_6 | Add same product first time
+2026-05-21 10:08:37,077 | INFO | PT_6 | Add same product second time
+2026-05-21 10:08:40,170 | INFO | PT_6 | Open cart
+2026-05-21 10:08:45,376 | INFO | ASSERT PASSED | Multiple quantity product added in cart
+2026-05-21 10:08:45,757 | INFO | PT_6 | Closing browser
+2026-05-21 10:16:53,415 | INFO | PT_7 | Open Nykaa
+2026-05-21 10:16:54,622 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 10:17:07,793 | INFO | PT_7 | Select first product
+2026-05-21 10:17:22,991 | INFO | PT_7 | Add product to cart
+2026-05-21 10:17:29,554 | INFO | PT_7 | Open cart
+2026-05-21 10:17:31,935 | INFO | PT_7 | Remove product from cart
+2026-05-21 10:17:32,112 | INFO | PT_7 | Closing browser
+2026-05-21 10:38:19,652 | INFO | PT_7 | Open Nykaa
+2026-05-21 10:38:20,864 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 10:38:43,788 | INFO | PT_7 | Select first product
+2026-05-21 10:38:53,489 | INFO | PT_7 | Add product to cart
+2026-05-21 10:39:02,580 | INFO | PT_7 | Open cart
+2026-05-21 10:39:04,896 | INFO | PT_7 | Delete product from cart
+2026-05-21 10:39:07,427 | INFO | PT_7 | Product removed successfully
+2026-05-21 10:39:07,614 | INFO | Closing browser
+2026-05-21 10:41:35,701 | INFO | PT_7 | Open Nykaa
+2026-05-21 10:41:37,824 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 10:41:51,402 | INFO | PT_7 | Select first product
+2026-05-21 10:42:07,743 | INFO | PT_7 | Add product to cart
+2026-05-21 10:42:14,278 | INFO | PT_7 | Open cart
+2026-05-21 10:42:16,009 | INFO | PT_7 | Delete product from cart
+2026-05-21 10:42:19,210 | INFO | PT_7 | Product removed successfully
+2026-05-21 10:42:19,271 | INFO | ASSERT PASSED | Product removed from cart
+2026-05-21 10:42:19,561 | INFO | Closing browser
+2026-05-21 11:03:58,144 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:03:59,388 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:04:14,083 | INFO | PT_7 | Select first product
+2026-05-21 11:04:25,492 | INFO | PT_7 | Add product to cart
+2026-05-21 11:04:32,329 | INFO | PT_7 | Open cart
+2026-05-21 11:04:33,723 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:05:03,937 | INFO | Closing browser
+2026-05-21 11:07:25,497 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:07:39,561 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:07:43,343 | INFO | PT_7 | Select first product
+2026-05-21 11:07:53,187 | INFO | PT_7 | Add product to cart
+2026-05-21 11:08:04,835 | INFO | PT_7 | Open cart
+2026-05-21 11:08:06,509 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:08:36,697 | INFO | Closing browser
+2026-05-21 11:13:47,605 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:13:48,393 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:14:29,043 | INFO | Closing browser
+2026-05-21 11:15:25,005 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:15:26,161 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:15:43,030 | INFO | PT_7 | Select first product
+2026-05-21 11:15:51,588 | INFO | PT_7 | Add product to cart
+2026-05-21 11:16:04,729 | INFO | PT_7 | Open cart
+2026-05-21 11:16:06,908 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:16:09,270 | INFO | Closing browser
+2026-05-21 11:17:18,031 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:17:20,294 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:17:38,590 | INFO | PT_7 | Select first product
+2026-05-21 11:17:47,462 | INFO | PT_7 | Add product to cart
+2026-05-21 11:17:58,736 | INFO | PT_7 | Open cart
+2026-05-21 11:18:00,958 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:18:02,752 | INFO | Closing browser
+2026-05-21 11:23:41,517 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:23:42,439 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:23:59,388 | INFO | PT_7 | Select first product
+2026-05-21 11:24:09,973 | INFO | PT_7 | Add product to cart
+2026-05-21 11:24:18,840 | INFO | PT_7 | Open cart
+2026-05-21 11:24:20,641 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:24:23,707 | INFO | Closing browser
+2026-05-21 11:28:38,859 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:28:51,283 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:28:55,939 | INFO | PT_7 | Select first product
+2026-05-21 11:29:13,187 | INFO | PT_7 | Add product to cart
+2026-05-21 11:29:18,997 | INFO | PT_7 | Open cart
+2026-05-21 11:29:23,063 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:29:25,529 | INFO | Closing browser
+2026-05-21 11:34:10,841 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:34:12,132 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:34:25,952 | INFO | PT_7 | Select first product
+2026-05-21 11:34:40,959 | INFO | PT_7 | Add product to cart
+2026-05-21 11:34:50,571 | INFO | PT_7 | Open cart
+2026-05-21 11:34:52,667 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:34:57,514 | INFO | Closing browser
+2026-05-21 11:36:45,664 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:36:50,391 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:37:04,469 | INFO | PT_7 | Select first product
+2026-05-21 11:37:16,831 | INFO | PT_7 | Add product to cart
+2026-05-21 11:37:26,711 | INFO | PT_7 | Open cart
+2026-05-21 11:37:28,625 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:37:30,000 | INFO | PT_7 | Product removed successfully
+2026-05-21 11:37:30,118 | INFO | Closing browser
+2026-05-21 11:41:09,191 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:41:11,581 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:41:27,173 | INFO | PT_7 | Select first product
+2026-05-21 11:41:49,566 | INFO | PT_7 | Add product to cart
+2026-05-21 11:43:37,564 | INFO | Closing browser
+2026-05-21 11:43:48,302 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:43:58,589 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:44:02,723 | INFO | PT_7 | Select first product
+2026-05-21 11:44:22,916 | INFO | PT_7 | Add product to cart
+2026-05-21 11:44:45,956 | INFO | PT_7 | Open cart
+2026-05-21 11:44:51,127 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:44:53,917 | INFO | PT_7 | Product removed successfully
+2026-05-21 11:44:54,015 | INFO | Closing browser
+2026-05-21 11:49:00,506 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:49:30,162 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:49:30,875 | INFO | PT_7 | Select first product
+2026-05-21 11:49:33,126 | INFO | PT_7 | Add product to cart
+2026-05-21 11:49:47,248 | INFO | PT_7 | Open cart
+2026-05-21 11:49:50,773 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:49:52,868 | INFO | PT_7 | Product removed successfully
+2026-05-21 11:49:52,972 | INFO | ASSERT PASSED | Product removed from cart
+2026-05-21 11:49:53,509 | INFO | Closing browser
+2026-05-21 11:52:53,932 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:52:56,641 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:53:11,203 | INFO | PT_7 | Select first product
+2026-05-21 11:53:26,698 | INFO | PT_7 | Add product to cart
+2026-05-21 11:53:35,720 | INFO | PT_7 | Open cart
+2026-05-21 11:53:38,646 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:53:40,269 | INFO | PT_7 | Product removed successfully
+2026-05-21 11:53:40,889 | INFO | Closing browser
+2026-05-21 11:57:44,613 | INFO | PT_7 | Open Nykaa
+2026-05-21 11:57:45,868 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 11:57:59,267 | INFO | PT_7 | Select first product
+2026-05-21 11:58:16,728 | INFO | PT_7 | Add product to cart
+2026-05-21 11:58:22,791 | INFO | PT_7 | Open cart
+2026-05-21 11:58:23,976 | INFO | PT_7 | Delete product from cart
+2026-05-21 11:58:25,262 | INFO | PT_7 | Product removed successfully
+2026-05-21 11:58:55,483 | INFO | Closing browser
+2026-05-21 12:01:24,501 | INFO | PT_7 | Open Nykaa
+2026-05-21 12:01:25,760 | INFO | PT_7 | Navigate to moisturizer page
+2026-05-21 12:01:40,407 | INFO | PT_7 | Select first product
+2026-05-21 12:02:01,226 | INFO | PT_7 | Add product to cart
+2026-05-21 12:02:08,715 | INFO | PT_7 | Open cart
+2026-05-21 12:02:10,576 | INFO | PT_7 | Delete product from cart
+2026-05-21 12:02:16,837 | INFO | PT_7 | Product removed successfully
+2026-05-21 12:02:16,929 | INFO | ASSERT PASSED | Product removed successfully
+2026-05-21 12:02:17,667 | INFO | Closing browser
+2026-05-21 12:19:07,322 | INFO | PT_11 | Open Nykaa
+2026-05-21 12:19:21,130 | INFO | PT_11 | Search product
+2026-05-21 12:19:34,114 | INFO | PT_11 | Verify search result page
+2026-05-21 12:19:35,489 | INFO | Closing browser
+2026-05-21 12:23:33,542 | INFO | PT_11 | Open Nykaa
+2026-05-21 12:23:53,407 | INFO | PT_11 | Search product
+2026-05-21 12:24:05,173 | INFO | PT_11 | Verify search result page
+2026-05-21 12:24:08,096 | INFO | ASSERT PASSED | Search results displayed
+2026-05-21 12:24:08,097 | INFO | ASSERT PASSED | Search bar working properly
+2026-05-21 12:24:09,058 | INFO | Closing browser
+2026-05-21 12:39:39,544 | INFO | PT_11 | Open Nykaa
+2026-05-21 12:39:41,257 | INFO | PT_11 | Search product
+2026-05-21 12:40:09,633 | INFO | PT_11 | Verify search result page
+2026-05-21 12:40:10,049 | INFO | Search results displayed
+2026-05-21 12:40:10,050 | INFO | Search bar working properly
+2026-05-21 12:40:11,400 | INFO | Closing browser
+2026-05-21 12:43:16,857 | INFO | PT_3 | Open Nykaa
+2026-05-21 12:43:18,139 | INFO | PT_3 | Search product
+2026-05-21 12:43:42,545 | INFO | PT_3 | Verify search result page
+2026-05-21 12:43:45,121 | INFO | Search results displayed
+2026-05-21 12:43:45,123 | INFO | Search bar working properly
+2026-05-21 12:43:47,132 | INFO | Closing browser
+2026-05-21 12:43:53,602 | INFO | PT_4 | Open Nykaa
+2026-05-21 12:44:06,457 | INFO | PT_4 | Navigate to moisturizer page
+2026-05-21 12:44:22,622 | INFO | PT_4 | Select first product
+2026-05-21 12:44:34,376 | INFO | PT_4 | Verify product page opened
+2026-05-21 12:44:47,418 | INFO | ASSERT PASSED | Product details page opened successfully
+2026-05-21 12:44:49,077 | INFO | Closing browser
+2026-05-21 12:46:49,475 | INFO | PT_2 | Open Nykaa
+2026-05-21 12:47:05,035 | INFO | PT_2 | Navigate to moisturizer page
+2026-05-21 12:47:21,230 | INFO | PT_2 | Select first product
+2026-05-21 12:47:31,542 | INFO | PT_2 | Add product to cart
+2026-05-21 12:47:49,589 | INFO | PT_2 | Open cart
+2026-05-21 12:47:50,844 | INFO | PT_2 | Delete product from cart
+2026-05-21 12:47:52,665 | INFO | PT_2 | Product removed successfully
+2026-05-21 12:47:52,835 | INFO | ASSERT PASSED | Product removed successfully
+2026-05-21 12:47:53,246 | INFO | Closing browser
+2026-05-21 12:47:57,944 | INFO | PT_3 | Open Nykaa
+2026-05-21 12:48:08,266 | INFO | PT_3 | Search product
+2026-05-21 12:48:22,961 | INFO | PT_3 | Verify search result page
+2026-05-21 12:48:26,226 | INFO | Search results displayed
+2026-05-21 12:48:26,228 | INFO | Search bar working properly
+2026-05-21 12:48:27,776 | INFO | Closing browser
+2026-05-21 12:48:32,549 | INFO | PT_4 | Open Nykaa
+2026-05-21 12:48:33,635 | INFO | PT_4 | Navigate to moisturizer page
+2026-05-21 12:48:45,315 | INFO | PT_4 | Select first product
+2026-05-21 12:48:57,053 | INFO | PT_4 | Verify product page opened
+2026-05-21 12:49:07,445 | INFO | ASSERT PASSED | Product details page opened successfully
+2026-05-21 12:49:08,798 | INFO | Closing browser
+2026-05-21 12:50:46,410 | INFO | PT_6 | Open Nykaa
+2026-05-21 12:51:39,645 | INFO | PT_6 | Navigate to moisturizer
+2026-05-21 12:51:48,678 | INFO | PT_6 | Select first product
+2026-05-21 12:52:00,726 | INFO | PT_6 | Add same product first time
+2026-05-21 12:52:07,940 | INFO | PT_6 | Add same product second time
+2026-05-21 12:52:14,022 | INFO | PT_6 | Open cart
+2026-05-21 12:52:19,496 | INFO | PT_6 | Closing browser
+2026-05-21 12:52:24,505 | INFO | PT_2 | Open Nykaa
+2026-05-21 12:52:25,606 | INFO | PT_2 | Navigate to moisturizer page
+2026-05-21 12:52:40,686 | INFO | PT_2 | Select first product
+2026-05-21 12:52:57,277 | INFO | PT_2 | Add product to cart
+2026-05-21 12:53:06,838 | INFO | PT_2 | Open cart
+2026-05-21 12:53:09,717 | INFO | PT_2 | Delete product from cart
+2026-05-21 12:53:11,646 | INFO | PT_2 | Product removed successfully
+2026-05-21 12:53:11,924 | INFO | ASSERT PASSED | Product removed successfully
+2026-05-21 12:53:12,517 | INFO | Closing browser
+2026-05-21 12:53:17,675 | INFO | PT_3 | Open Nykaa
+2026-05-21 12:53:19,626 | INFO | PT_3 | Search product
+2026-05-21 12:53:47,952 | INFO | PT_3 | Verify search result page
+2026-05-21 12:53:48,498 | INFO | Search results displayed
+2026-05-21 12:53:48,500 | INFO | Search bar working properly
+2026-05-21 12:53:49,613 | INFO | Closing browser
+2026-05-21 12:53:55,436 | INFO | PT_4 | Open Nykaa
+2026-05-21 12:54:05,509 | INFO | PT_4 | Navigate to moisturizer page
+2026-05-21 12:54:10,198 | INFO | PT_4 | Select first product
+2026-05-21 12:54:26,272 | INFO | PT_4 | Verify product page opened
+2026-05-21 12:54:34,049 | INFO | ASSERT PASSED | Product details page opened successfully
+2026-05-21 12:54:35,075 | INFO | Closing browser
+2026-05-21 13:00:13,189 | INFO | PT_6 | Open Nykaa
+2026-05-21 13:00:19,684 | INFO | PT_6 | Navigate to moisturizer
+2026-05-21 13:00:43,065 | INFO | PT_6 | Select first product
+2026-05-21 13:00:52,996 | INFO | PT_6 | Add same product first time
+2026-05-21 13:01:01,910 | INFO | PT_6 | Add same product second time
+2026-05-21 13:01:05,480 | INFO | PT_6 | Open cart
+2026-05-21 13:01:10,806 | INFO | ASSERT PASSED | Multiple quantity product added in cart
+2026-05-21 13:01:11,069 | INFO | PT_6 | Closing browser
+2026-05-21 13:01:15,471 | INFO | PT_2 | Open Nykaa
+2026-05-21 13:01:24,975 | INFO | PT_2 | Navigate to moisturizer page
+2026-05-21 13:01:31,705 | INFO | PT_2 | Select first product
+2026-05-21 13:01:44,285 | INFO | PT_2 | Add product to cart
+2026-05-21 13:01:51,577 | INFO | PT_2 | Open cart
+2026-05-21 13:01:53,259 | INFO | PT_2 | Delete product from cart
+2026-05-21 13:02:01,475 | INFO | PT_2 | Product removed successfully
+2026-05-21 13:02:01,709 | INFO | ASSERT PASSED | Product removed successfully
+2026-05-21 13:02:02,570 | INFO | Closing browser
+2026-05-21 13:02:09,619 | INFO | PT_3 | Open Nykaa
+2026-05-21 13:02:19,505 | INFO | PT_3 | Search product
+2026-05-21 13:02:40,472 | INFO | PT_3 | Verify search result page
+2026-05-21 13:02:41,113 | INFO | Search results displayed
+2026-05-21 13:02:41,115 | INFO | Search bar working properly
+2026-05-21 13:02:42,404 | INFO | Closing browser
+2026-05-21 13:02:48,735 | INFO | PT_4 | Open Nykaa
+2026-05-21 13:03:00,889 | INFO | PT_4 | Navigate to moisturizer page
+2026-05-21 13:03:05,251 | INFO | PT_4 | Select first product
+2026-05-21 13:03:22,028 | INFO | PT_4 | Verify product page opened
+2026-05-21 13:03:25,466 | INFO | ASSERT PASSED | Product details page opened successfully
+2026-05-21 13:03:27,618 | INFO | Closing browser
+2026-05-21 13:15:17,471 | INFO | Nykaa website opened
+2026-05-21 13:16:43,561 | INFO | ASSERT PASSED: Homepage opened
+2026-05-21 13:16:43,580 | ERROR | Test Failed: Moisturizer page not opened
+assert 'moisturizers' in 'https://www.nykaa.com/v2/payment/auth'
+ +  where 'https://www.nykaa.com/v2/payment/auth' = <built-in method lower of str object at 0x0000026174A77870>()
+ +    where <built-in method lower of str object at 0x0000026174A77870> = 'https://www.nykaa.com/v2/payment/auth'.lower
+ +      where 'https://www.nykaa.com/v2/payment/auth' = <selenium.webdriver.chrome.webdriver.WebDriver (session="b5cf0d9db274f1b08be6e7ac1263df16")>.current_url
+2026-05-21 13:16:43,764 | INFO | Closing browser
+2026-05-21 13:27:39,895 | INFO | NT_3 | Open Nykaa
+2026-05-21 13:28:19,069 | INFO | NT_3 | Search invalid product
+2026-05-21 13:28:29,013 | INFO | NT_3 | Verify no results message
+2026-05-21 13:28:36,958 | INFO | ASSERT PASSED | Invalid search handled properly
+2026-05-21 13:28:37,539 | INFO | Closing browser
+2026-05-21 13:48:27,429 | INFO | NT_3 | Open Nykaa
+2026-05-21 13:48:35,146 | INFO | Closing browser
+2026-05-21 13:49:01,455 | INFO | NT_3 | Open Nykaa
+2026-05-21 13:49:17,025 | INFO | NT_3 | Open empty cart
+2026-05-21 13:51:17,051 | INFO | Closing browser
+2026-05-21 13:58:29,998 | INFO | NT_10 | Open Nykaa
+2026-05-21 13:58:31,770 | INFO | NT_10 | Add product to cart
+2026-05-21 13:58:52,773 | INFO | NT_10 | Refresh cart page
+2026-05-21 13:58:56,321 | INFO | NT_10 | Validate cart still has product
+2026-05-21 13:58:56,913 | INFO | ASSERT PASSED | Cart persistence working correctly
+2026-05-21 13:58:59,372 | INFO | Closing browser
+2026-05-21 14:14:56,516 | INFO | NT_14 | Open Nykaa
+2026-05-21 14:14:58,198 | INFO | NT_14 | Add product to cart multiple times
+2026-05-21 14:16:06,927 | INFO | NT_14 | Fetch cart items / quantity
+2026-05-21 14:16:06,977 | INFO | NT_14 | Cart count = 1
+2026-05-21 14:16:06,978 | INFO | ASSERT PASSED | Cart limit enforced correctly
+2026-05-21 14:16:07,377 | INFO | Closing browser
+2026-05-21 14:17:49,178 | INFO | NT_14 | Open Nykaa
+2026-05-21 14:17:50,022 | INFO | NT_14 | Add product to cart multiple times
+2026-05-21 14:19:03,552 | INFO | NT_14 | Fetch cart items / quantity
+2026-05-21 14:19:03,723 | INFO | ASSERT PASSED | Cart limit enforced correctly
+2026-05-21 14:19:04,624 | INFO | Closing browser
+2026-05-21 14:38:16,666 | INFO | NT_14 | Open Nykaa
+2026-05-21 14:38:24,670 | INFO | NT_14 | Add product to cart multiple times
+2026-05-21 14:39:01,634 | INFO | Closing browser
+2026-05-21 14:39:43,760 | INFO | NT_14 | Open Nykaa
+2026-05-21 14:39:55,970 | INFO | NT_14 | Add product to cart multiple times
+2026-05-21 14:40:33,345 | INFO | Closing browser
+2026-05-21 14:55:48,079 | INFO | NT_14 | Open Nykaa
+2026-05-21 14:55:59,692 | INFO | NT_14 | Add product to cart multiple times
+2026-05-21 14:56:36,763 | INFO | Closing browser
+2026-05-21 14:59:06,065 | INFO | NT_14 | Open Nykaa
+2026-05-21 14:59:07,348 | INFO | NT_14 | Navigate to product page
+2026-05-21 15:00:12,355 | INFO | Closing browser
+2026-05-21 15:00:24,843 | INFO | NT_14 | Open Nykaa
+2026-05-21 15:00:36,483 | INFO | NT_14 | Navigate to product page
+2026-05-21 15:01:26,459 | INFO | Closing browser
+2026-05-21 15:18:48,025 | INFO | NT | Open Nykaa
+2026-05-21 15:18:50,786 | INFO | NT | Add product to cart
+2026-05-21 15:20:03,755 | INFO | NT | Remove product from cart
+2026-05-21 15:20:08,257 | INFO | NT | Check Proceed button should NOT exist
+2026-05-21 15:20:08,425 | INFO | Closing browser
+2026-05-21 15:29:41,594 | INFO | NT | Open Nykaa
+2026-05-21 15:29:50,515 | INFO | NT | Open cart directly
+2026-05-21 15:30:20,900 | INFO | Closing browser
+2026-05-21 15:37:31,283 | INFO | NT | Open Nykaa
+2026-05-21 15:37:33,665 | INFO | NT | Open cart directly
+2026-05-21 15:37:48,734 | INFO | NT | Check Proceed button
+2026-05-21 15:37:48,901 | INFO | ASSERT PASSED | Proceed button correctly restricted
+2026-05-21 15:37:48,904 | INFO | Closing browser
+2026-05-21 15:50:16,560 | INFO | START TEST: test_negative
+2026-05-21 15:50:16,733 | INFO | NT_3 | Open Nykaa
+2026-05-21 15:50:28,073 | INFO | NT_3 | Search invalid product
+2026-05-21 15:50:38,736 | INFO | NT_3 | Verify no results message
+2026-05-21 15:50:42,048 | INFO | ASSERT PASSED | Invalid search handled properly
+2026-05-21 15:50:42,923 | INFO | Closing browser
+2026-05-21 15:50:48,016 | INFO | NT_2 | Open Nykaa
+2026-05-21 15:51:02,691 | INFO | NT_2 | Open cart directly
+2026-05-21 15:51:03,240 | INFO | NT_2 | Check Proceed button
+2026-05-21 15:51:03,269 | INFO | Proceed button  restricted
+2026-05-21 15:51:03,270 | INFO | Closing browser
+2026-05-21 15:52:16,846 | INFO | START TEST: test_negative
+2026-05-21 15:52:16,854 | INFO | NT_3 | Open Nykaa
+2026-05-21 15:53:09,220 | INFO | NT_3 | Search invalid product
+2026-05-21 15:53:26,438 | INFO | NT_3 | Verify no results message
+2026-05-21 15:53:28,583 | INFO | ASSERT PASSED | Invalid search handled properly
+2026-05-21 15:53:28,883 | INFO | Closing browser
+2026-05-21 15:53:32,183 | INFO | NT_2 | Open Nykaa
+2026-05-21 15:53:43,302 | INFO | NT_2 | Open cart directly
+2026-05-21 15:53:48,530 | INFO | NT_2 | Check Proceed button
+2026-05-21 15:53:48,695 | INFO | Proceed button  restricted
+2026-05-21 15:53:48,697 | INFO | Closing browser
+2026-05-21 15:53:52,176 | INFO | START TEST: test_nykaa_e2e
+2026-05-21 15:53:52,200 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-21 15:53:52,201 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-21 15:53:55,887 | INFO | OPEN | Nykaa website launched
+2026-05-21 15:54:21,752 | INFO | ASSERT | Homepage loaded successfully
+2026-05-21 15:54:21,755 | INFO | CLICK | Sign In button clicked
+2026-05-21 15:54:25,466 | INFO | SELECT | Mobile / Email option selected
+2026-05-21 15:54:56,042 | INFO | CLICK | Skip login clicked
+2026-05-21 15:55:11,654 | INFO | HOVER | Hovering on Skin menu
+2026-05-21 15:55:12,097 | INFO | CLICK | Clicking Moisturizer category
+2026-05-21 15:55:21,130 | INFO | ASSERT | Moisturizer page validated
+2026-05-21 15:55:21,131 | INFO | SELECT | Brand selected from Excel: Cetaphil
+2026-05-21 15:55:23,486 | INFO | CLICK | First product selected
+2026-05-21 15:59:11,620 | INFO | ASSERT | Product page validated
+2026-05-21 15:59:11,621 | INFO | ACTION | Product added to bag
+2026-05-21 15:59:12,160 | INFO | NAVIGATE | Cart opened
+2026-05-21 15:59:17,739 | INFO | ACTION | Proceed button clicked
+2026-05-21 16:00:12,553 | INFO | E2E TEST COMPLETED SUCCESSFULLY
+2026-05-21 16:00:12,556 | INFO | Closing browser
+2026-05-21 16:00:21,212 | INFO | PT_1 | Open Nykaa
+2026-05-21 16:02:21,255 | INFO | PT_6 | Closing browser
+2026-05-21 16:03:44,207 | INFO | PT_2 | Open Nykaa
+2026-05-21 16:04:49,518 | INFO | PT_2 | Navigate to moisturizer page
+2026-05-21 16:04:55,534 | INFO | PT_2 | Select first product
+2026-05-21 16:05:04,330 | INFO | PT_2 | Add product to cart
+2026-05-21 16:05:12,129 | INFO | PT_2 | Open cart
+2026-05-21 16:05:15,871 | INFO | PT_2 | Delete product from cart
+2026-05-21 16:05:20,338 | INFO | PT_2 | Product removed successfully
+2026-05-21 16:05:20,420 | INFO | ASSERT PASSED | Product removed successfully
+2026-05-21 16:05:20,688 | INFO | Closing browser
+2026-05-21 16:05:25,826 | INFO | PT_3 | Open Nykaa
+2026-05-21 16:06:14,568 | INFO | PT_3 | Search product
+2026-05-21 16:06:43,818 | INFO | PT_3 | Verify search result page
+2026-05-21 16:07:13,987 | INFO | Closing browser
+2026-05-21 16:07:16,927 | INFO | PT_4 | Open Nykaa
+2026-05-21 16:07:37,307 | INFO | PT_4 | Add product to cart
+2026-05-21 16:08:35,716 | INFO | PT_4 | Refresh cart page
+2026-05-21 16:10:35,721 | INFO | Closing browser
+2026-05-21 16:11:54,823 | INFO | PT_1 | Open Nykaa
+2026-05-21 16:12:12,862 | INFO | PT_1 | Navigate to moisturizer
+2026-05-21 16:12:29,644 | INFO | PT_1 | Select first product
+2026-05-21 16:14:29,768 | INFO | PT_1 | Closing browser
+2026-05-21 16:15:58,781 | INFO | PT_2 | Open Nykaa
+2026-05-21 16:16:10,239 | INFO | PT_2 | Navigate to moisturizer page
+2026-05-21 16:16:15,577 | INFO | PT_2 | Select first product
+2026-05-21 16:17:49,471 | INFO | Closing browser
+2026-05-21 16:18:40,227 | INFO | PT_1 | Open Nykaa
+2026-05-21 16:20:40,242 | INFO | PT_1 | Closing browser
+2026-05-21 16:22:04,069 | INFO | PT_2 | Open Nykaa
+2026-05-21 16:23:52,699 | INFO | PT_2 | Navigate to moisturizer page
+2026-05-21 16:23:53,607 | INFO | PT_2 | Select first product
+2026-05-21 16:24:27,561 | INFO | PT_2 | Add product to cart
+2026-05-21 16:24:58,944 | INFO | Closing browser
+2026-05-21 16:25:22,661 | INFO | PT_3 | Open Nykaa
+2026-05-21 16:25:32,661 | INFO | PT_3 | Search product
+2026-05-21 16:25:56,269 | INFO | PT_3 | Verify search result page
+2026-05-21 16:25:56,627 | INFO | Search results displayed
+2026-05-21 16:25:56,627 | INFO | Search bar working properly
+2026-05-21 16:25:57,375 | INFO | Closing browser
+2026-05-21 16:26:00,937 | INFO | PT_4 | Open Nykaa
+2026-05-21 16:26:01,970 | INFO | PT_4 | Add product to cart
+2026-05-21 16:27:07,985 | INFO | PT_4 | Refresh cart page
+2026-05-21 16:27:12,041 | INFO | PT_4 | Validate cart still has product
+2026-05-21 16:27:14,885 | INFO | ASSERT PASSED | Cart persistence working correctly
+2026-05-21 16:27:15,846 | INFO | Closing browser
+2026-05-21 16:27:29,306 | INFO | PT_1 | Open Nykaa
+2026-05-21 16:27:43,944 | INFO | PT_1 | Navigate to moisturizer
+2026-05-21 16:27:54,571 | INFO | PT_1 | Select first product
+2026-05-21 16:28:03,193 | INFO | PT_1 | Add same product first time
+2026-05-21 16:28:10,951 | INFO | PT_1 | Add same product second time
+2026-05-21 16:28:14,089 | INFO | PT_1 | Open cart
+2026-05-21 16:28:19,434 | INFO | ASSERT PASSED | Multiple quantity product added in cart
+2026-05-21 16:28:19,670 | INFO | PT_1 | Closing browser
+2026-05-21 16:28:24,019 | INFO | PT_2 | Open Nykaa
+2026-05-21 16:28:25,620 | INFO | PT_2 | Navigate to moisturizer page
+2026-05-21 16:28:40,083 | INFO | PT_2 | Select first product
+2026-05-21 16:28:58,226 | INFO | PT_2 | Add product to cart
+2026-05-21 16:29:18,934 | INFO | PT_2 | Open cart
+2026-05-21 16:29:21,220 | INFO | PT_2 | Delete product from cart
+2026-05-21 16:29:25,194 | INFO | PT_2 | Product removed successfully
+2026-05-21 16:29:25,331 | INFO | ASSERT PASSED | Product removed successfully
+2026-05-21 16:29:25,715 | INFO | Closing browser
+2026-05-21 16:29:29,689 | INFO | PT_3 | Open Nykaa
+2026-05-21 16:29:39,863 | INFO | PT_3 | Search product
+2026-05-21 16:29:51,804 | INFO | PT_3 | Verify search result page
+2026-05-21 16:29:53,627 | INFO | Search results displayed
+2026-05-21 16:29:53,630 | INFO | Search bar working properly
+2026-05-21 16:29:56,169 | INFO | Closing browser
+2026-05-21 16:30:01,463 | INFO | PT_4 | Open Nykaa
+2026-05-21 16:30:02,734 | INFO | PT_4 | Add product to cart
+2026-05-21 16:30:46,541 | INFO | Closing browser
+2026-05-21 16:32:30,979 | INFO | PT_1 | Open Nykaa
+2026-05-21 16:33:00,114 | INFO | PT_1 | Navigate to moisturizer
+2026-05-21 16:33:00,121 | INFO | PT_1 | Closing browser
+2026-05-21 16:33:07,508 | INFO | PT_1 | Open Nykaa
+2026-05-21 16:33:19,036 | INFO | PT_1 | Navigate to moisturizer
+2026-05-21 16:33:41,658 | INFO | PT_1 | Closing browser
+2026-05-21 16:45:46,101 | INFO | PT_1 | Open Nykaa
+2026-05-21 16:46:08,885 | INFO | PT_1 | Navigate to moisturizer
+2026-05-21 16:46:28,251 | INFO | PT_1 | Select first product
+2026-05-21 16:46:35,047 | INFO | PT_1 | Add same product first time
+2026-05-21 16:46:39,582 | INFO | PT_1 | Add same product second time
+2026-05-21 16:46:51,632 | INFO | PT_1 | Open cart
+2026-05-21 16:46:57,629 | INFO | ASSERT PASSED | Multiple quantity product added in cart
+2026-05-21 16:46:58,128 | INFO | PT_1 | Closing browser
+2026-05-21 16:47:03,428 | INFO | PT_2 | Open Nykaa
+2026-05-21 16:47:04,061 | INFO | PT_2 | Navigate to moisturizer page
+2026-05-21 16:47:18,910 | INFO | PT_2 | Select first product
+2026-05-21 16:47:30,066 | INFO | PT_2 | Add product to cart
+2026-05-21 16:47:36,041 | INFO | PT_2 | Open cart
+2026-05-21 16:47:42,406 | INFO | PT_2 | Delete product from cart
+2026-05-21 16:47:44,135 | INFO | PT_2 | Product removed successfully
+2026-05-21 16:47:44,375 | INFO | ASSERT PASSED | Product removed successfully
+2026-05-21 16:47:45,022 | INFO | Closing browser
+2026-05-21 16:47:49,775 | INFO | PT_3 | Open Nykaa
+2026-05-21 16:47:50,664 | INFO | PT_3 | Search product
+2026-05-21 16:48:15,683 | INFO | PT_3 | Verify search result page
+2026-05-21 16:48:17,045 | INFO | Search results displayed
+2026-05-21 16:48:17,048 | INFO | Search bar working properly
+2026-05-21 16:48:18,165 | INFO | Closing browser
+2026-05-21 16:48:23,295 | INFO | PT_4 | Open Nykaa
+2026-05-21 16:48:24,013 | INFO | PT_4 | Add product to cart
+2026-05-21 16:49:06,209 | INFO | PT_4 | Refresh cart page
+2026-05-21 16:49:08,722 | INFO | PT_4 | Validate cart still has product
+2026-05-21 16:49:10,764 | INFO | ASSERT PASSED | Cart persistence working correctly
+2026-05-21 16:49:11,115 | INFO | Closing browser
+2026-05-21 16:50:22,718 | INFO | START TEST: test_negative
+2026-05-21 16:50:22,726 | INFO | NT_1 | Open Nykaa
+2026-05-21 16:50:25,114 | INFO | NT_1 | Search invalid product
+2026-05-21 16:50:45,915 | INFO | NT_1 | Verify no results message
+2026-05-21 16:50:46,913 | INFO | ASSERT PASSED | Invalid search handled properly
+2026-05-21 16:50:47,264 | INFO | Closing browser
+2026-05-21 16:50:52,252 | INFO | NT_2 | Open Nykaa
+2026-05-21 16:50:53,362 | INFO | NT_2 | Open cart directly
+2026-05-21 16:51:04,975 | INFO | NT_2 | Check Proceed button
+2026-05-21 16:51:05,281 | INFO | Proceed button  restricted
+2026-05-21 16:51:06,384 | INFO | Closing browser
+2026-05-21 16:51:22,188 | INFO | START TEST: test_nykaa_e2e
+2026-05-21 16:51:22,191 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-21 16:51:22,191 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-21 16:51:22,973 | INFO | OPEN | Nykaa website launched
+2026-05-21 16:51:36,581 | INFO | ASSERT | Homepage loaded successfully
+2026-05-21 16:51:36,588 | INFO | CLICK | Sign In button clicked
+2026-05-21 16:51:44,665 | INFO | SELECT | Mobile / Email option selected
+2026-05-21 16:51:47,335 | INFO | CLICK | Skip login clicked
+2026-05-21 16:51:52,989 | INFO | HOVER | Hovering on Skin menu
+2026-05-21 16:51:53,404 | INFO | CLICK | Clicking Moisturizer category
+2026-05-21 16:52:03,098 | INFO | ASSERT | Moisturizer page validated
+2026-05-21 16:52:03,100 | INFO | SELECT | Brand selected from Excel: Cetaphil
+2026-05-21 16:52:06,101 | INFO | CLICK | First product selected
+2026-05-21 16:52:11,219 | INFO | ASSERT | Product page validated
+2026-05-21 16:52:11,220 | INFO | ACTION | Product added to bag
+2026-05-21 16:52:12,708 | INFO | NAVIGATE | Cart opened
+2026-05-21 16:52:17,434 | INFO | ACTION | Proceed button clicked
+2026-05-21 16:52:28,851 | INFO | E2E TEST COMPLETED SUCCESSFULLY
+2026-05-21 16:52:28,853 | INFO | Closing browser
+2026-05-21 16:56:09,613 | INFO | START TEST: test_negative
+2026-05-21 16:56:09,621 | INFO | NT_1 | Open Nykaa
+2026-05-21 16:56:13,205 | INFO | NT_1 | Search invalid product
+2026-05-21 16:56:40,610 | INFO | NT_1 | Verify no results message
+2026-05-21 16:56:43,327 | INFO | ASSERT PASSED | Invalid search handled properly
+2026-05-21 16:56:44,382 | INFO | Closing browser
+2026-05-21 16:56:52,802 | INFO | NT_2 | Open Nykaa
+2026-05-21 16:57:01,662 | INFO | NT_2 | Open cart directly
+2026-05-21 16:57:06,041 | INFO | NT_2 | Check Proceed button
+2026-05-21 16:57:06,147 | INFO | Proceed button  restricted
+2026-05-21 16:57:07,731 | INFO | Closing browser
+2026-05-21 16:57:11,353 | INFO | START TEST: test_nykaa_e2e
+2026-05-21 16:57:11,372 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-21 16:57:11,377 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-21 16:57:14,045 | INFO | OPEN | Nykaa website launched
+2026-05-21 16:57:28,516 | INFO | ASSERT | Homepage loaded successfully
+2026-05-21 16:57:28,518 | INFO | CLICK | Sign In button clicked
+2026-05-21 16:57:36,426 | INFO | SELECT | Mobile / Email option selected
+2026-05-21 16:57:39,135 | INFO | CLICK | Skip login clicked
+2026-05-21 16:57:45,772 | INFO | HOVER | Hovering on Skin menu
+2026-05-21 16:57:46,339 | INFO | CLICK | Clicking Moisturizer category
+2026-05-21 16:57:51,615 | INFO | ASSERT | Moisturizer page validated
+2026-05-21 16:57:51,617 | INFO | SELECT | Brand selected from Excel: Cetaphil
+2026-05-21 16:57:55,454 | INFO | CLICK | First product selected
+2026-05-21 16:58:02,628 | INFO | ASSERT | Product page validated
+2026-05-21 16:58:02,631 | INFO | ACTION | Product added to bag
+2026-05-21 16:58:06,054 | INFO | NAVIGATE | Cart opened
+2026-05-21 16:58:08,072 | INFO | ACTION | Proceed button clicked
+2026-05-21 16:58:15,536 | INFO | E2E TEST COMPLETED SUCCESSFULLY
+2026-05-21 16:58:15,539 | INFO | Closing browser
+2026-05-21 16:58:20,085 | INFO | PT_1 | Open Nykaa
+2026-05-21 16:58:33,054 | INFO | PT_1 | Navigate to moisturizer
+2026-05-21 16:58:51,141 | INFO | PT_1 | Select first product
+2026-05-21 16:59:01,713 | INFO | PT_1 | Add same product first time
+2026-05-21 16:59:11,038 | INFO | PT_1 | Add same product second time
+2026-05-21 16:59:17,294 | INFO | PT_1 | Open cart
+2026-05-21 16:59:22,459 | INFO | ASSERT PASSED | Multiple quantity product added in cart
+2026-05-21 16:59:22,657 | INFO | PT_1 | Closing browser
+2026-05-21 16:59:26,423 | INFO | PT_2 | Open Nykaa
+2026-05-21 16:59:34,479 | INFO | PT_2 | Navigate to moisturizer page
+2026-05-21 16:59:38,957 | INFO | PT_2 | Select first product
+2026-05-21 16:59:53,780 | INFO | PT_2 | Add product to cart
+2026-05-21 16:59:59,012 | INFO | PT_2 | Open cart
+2026-05-21 17:00:00,123 | INFO | PT_2 | Delete product from cart
+2026-05-21 17:00:04,933 | INFO | PT_2 | Product removed successfully
+2026-05-21 17:00:05,038 | INFO | ASSERT PASSED | Product removed successfully
+2026-05-21 17:00:05,479 | INFO | Closing browser
+2026-05-21 17:00:09,564 | INFO | PT_3 | Open Nykaa
+2026-05-21 17:00:17,579 | INFO | PT_3 | Search product
+2026-05-21 17:00:30,847 | INFO | PT_3 | Verify search result page
+2026-05-21 17:00:34,145 | INFO | Search results displayed
+2026-05-21 17:00:34,147 | INFO | Search bar working properly
+2026-05-21 17:00:36,563 | INFO | Closing browser
+2026-05-21 17:00:41,123 | INFO | PT_4 | Open Nykaa
+2026-05-21 17:00:49,502 | INFO | PT_4 | Add product to cart
+2026-05-21 17:01:19,240 | INFO | PT_4 | Refresh cart page
+2026-05-21 17:01:21,719 | INFO | PT_4 | Validate cart still has product
+2026-05-21 17:01:23,432 | INFO | ASSERT PASSED | Cart persistence working correctly
+2026-05-21 17:01:23,945 | INFO | Closing browser

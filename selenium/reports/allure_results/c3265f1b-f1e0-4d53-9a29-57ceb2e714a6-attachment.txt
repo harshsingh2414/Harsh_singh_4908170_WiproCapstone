@@ -1,0 +1,6 @@
+[32mINFO    [0m nykaa_logger:test_negative.py:27 START TEST: test_negative
+[32mINFO    [0m nykaa_logger:test_negative.py:38 NT_1 | Open Nykaa
+[32mINFO    [0m nykaa_logger:test_negative.py:41 NT_1 | Search invalid product
+[32mINFO    [0m nykaa_logger:test_negative.py:45 NT_1 | Verify no results message
+[32mINFO    [0m nykaa_logger:test_negative.py:52 ASSERT PASSED | Invalid search handled properly
+[32mINFO    [0m nykaa_logger:test_negative.py:59 Closing browser
