@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","13267","test_proceed_not_visible_empty_cart","tests","2026-05-23","passed","2026-05-23","","test_negative","",""
+"","41047","test_cart_after_refresh","tests","2026-05-23","passed","2026-05-23","","test_positive","",""
+"","26706","test_search_bar","tests","2026-05-23","passed","2026-05-23","","test_positive","",""
+"","50812","test_multiple_product_cart","tests","2026-05-23","passed","2026-05-23","","test_positive","",""
+"","30632","test_remove_product_from_cart","tests","2026-05-23","passed","2026-05-23","","test_positive","",""
+"","38490","test_invalid_product_search","tests","2026-05-23","passed","2026-05-23","","test_negative","",""
+"","53644","test_nykaa_e2e","tests","2026-05-23","passed","2026-05-23","","test_nykaa_e2e","",""

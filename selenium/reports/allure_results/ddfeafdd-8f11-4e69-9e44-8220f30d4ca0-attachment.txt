@@ -1,6 +1,0 @@
-[32mINFO    [0m nykaa_logger:test_positive.py:180 PT_3 | Open Nykaa
-[32mINFO    [0m nykaa_logger:test_positive.py:183 PT_3 | Search product
-[32mINFO    [0m nykaa_logger:test_positive.py:187 PT_3 | Verify search result page
-[32mINFO    [0m nykaa_logger:test_positive.py:193 Search results displayed
-[32mINFO    [0m nykaa_logger:test_positive.py:195 Search bar working properly
-[32mINFO    [0m nykaa_logger:test_positive.py:200 Closing browser

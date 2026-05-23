@@ -1,3 +1,0 @@
-[32mINFO    [0m nykaa_logger:test_positive.py:28 PT_1 | Open Nykaa
-[32mINFO    [0m nykaa_logger:test_positive.py:35 PT_1 | Navigate to moisturizer
-[32mINFO    [0m nykaa_logger:test_positive.py:94 PT_1 | Closing browser

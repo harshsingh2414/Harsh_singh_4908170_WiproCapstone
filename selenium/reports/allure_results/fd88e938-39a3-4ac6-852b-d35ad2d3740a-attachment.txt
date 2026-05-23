@@ -1,6 +1,0 @@
-[32mINFO    [0m nykaa_logger:test_positive.py:220 PT_4 | Open Nykaa
-[32mINFO    [0m nykaa_logger:test_positive.py:223 PT_4 | Add product to cart
-[32mINFO    [0m nykaa_logger:test_positive.py:237 PT_4 | Refresh cart page
-[32mINFO    [0m nykaa_logger:test_positive.py:240 PT_4 | Validate cart still has product
-[32mINFO    [0m nykaa_logger:test_positive.py:247 ASSERT PASSED | Cart persistence working correctly
-[32mINFO    [0m nykaa_logger:test_positive.py:252 Closing browser

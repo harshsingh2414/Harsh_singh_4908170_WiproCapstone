@@ -1,8 +1,0 @@
-[32mINFO    [0m nykaa_logger:test_positive.py:28 PT_1 | Open Nykaa
-[32mINFO    [0m nykaa_logger:test_positive.py:35 PT_1 | Navigate to moisturizer
-[32mINFO    [0m nykaa_logger:test_positive.py:47 PT_1 | Select first product
-[32mINFO    [0m nykaa_logger:test_positive.py:58 PT_1 | Add same product first time
-[32mINFO    [0m nykaa_logger:test_positive.py:64 PT_1 | Add same product second time
-[32mINFO    [0m nykaa_logger:test_positive.py:73 PT_1 | Open cart
-[32mINFO    [0m nykaa_logger:test_positive.py:86 ASSERT PASSED | Multiple quantity product added in cart
-[32mINFO    [0m nykaa_logger:test_positive.py:94 PT_1 | Closing browser
