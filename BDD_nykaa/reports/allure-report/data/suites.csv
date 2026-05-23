@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","69733","Remove product from cart successfully","","2026-05-23","passed","2026-05-23","","","",""
+"","91552","Cart should retain products after refresh","","2026-05-23","passed","2026-05-23","","","",""
+"","27291","Proceed button should not work for empty cart","","2026-05-23","passed","2026-05-23","","","",""
+"","45253","Search invalid product","","2026-05-23","passed","2026-05-23","","","",""
+"","56111","Add same product to cart successfully","","2026-05-23","passed","2026-05-23","","","",""
+"","77667","User completes full product purchase flow till cart","","2026-05-23","passed","2026-05-23","","","",""
+"","53419","Search valid product successfully","","2026-05-23","passed","2026-05-23","","","",""
