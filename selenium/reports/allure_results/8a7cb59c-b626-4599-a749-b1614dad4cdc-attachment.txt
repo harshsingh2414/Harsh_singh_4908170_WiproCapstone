@@ -1,0 +1,5 @@
+[32mINFO    [0m nykaa_logger:test_negative.py:76 NT_2 | Open Nykaa
+[32mINFO    [0m nykaa_logger:test_negative.py:79 NT_2 | Open cart directly
+[32mINFO    [0m nykaa_logger:test_negative.py:83 NT_2 | Check Proceed button
+[32mINFO    [0m nykaa_logger:test_negative.py:91 Proceed button  restricted
+[32mINFO    [0m nykaa_logger:test_negative.py:95 Closing browser

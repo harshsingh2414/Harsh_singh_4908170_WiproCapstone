@@ -13,10 +13,10 @@ from pages.cart_page import CartPage
 
 
 # =====================================================
-# NT_3 - Search Invalid Product
+# NT_1 - Search Invalid Product
 # =====================================================
 @allure.feature("Nykaa Negative Tests")
-@allure.story("NT_3 - Invalid Product Search")
+@allure.story("NT_1 - Invalid Product Search")
 def test_invalid_product_search():
 
     logger = get_logger()
