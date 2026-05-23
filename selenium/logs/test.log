@@ -1239,3 +1239,22 @@ assert 'moisturizers' in 'https://www.nykaa.com/v2/payment/auth'
 2026-05-22 17:19:42,471 | INFO | ACTION | Proceed button clicked
 2026-05-22 17:19:56,940 | INFO | E2E TEST COMPLETED SUCCESSFULLY
 2026-05-22 17:19:56,944 | INFO | Closing browser
+2026-05-23 09:12:45,375 | INFO | START TEST: test_nykaa_e2e
+2026-05-23 09:12:45,407 | INFO | LOAD | Test data loaded from Excel successfully
+2026-05-23 09:12:45,407 | INFO | DATA | BRAND_NAME = Cetaphil
+2026-05-23 09:12:46,592 | INFO | OPEN | Nykaa website launched
+2026-05-23 09:12:49,272 | INFO | ASSERT | Homepage loaded successfully
+2026-05-23 09:12:49,274 | INFO | CLICK | Sign In button clicked
+2026-05-23 09:12:49,915 | INFO | SELECT | Mobile / Email option selected
+2026-05-23 09:12:51,109 | INFO | CLICK | Skip login clicked
+2026-05-23 09:12:52,868 | INFO | HOVER | Hovering on Skin menu
+2026-05-23 09:12:53,240 | INFO | CLICK | Clicking Moisturizer category
+2026-05-23 09:12:54,840 | INFO | ASSERT | Moisturizer page validated
+2026-05-23 09:12:54,840 | INFO | SELECT | Brand selected from Excel: Cetaphil
+2026-05-23 09:12:56,509 | INFO | CLICK | First product selected
+2026-05-23 09:13:05,991 | INFO | ASSERT | Product page validated
+2026-05-23 09:13:05,991 | INFO | ACTION | Product added to bag
+2026-05-23 09:13:08,491 | INFO | NAVIGATE | Cart opened
+2026-05-23 09:13:09,907 | INFO | ACTION | Proceed button clicked
+2026-05-23 09:13:13,827 | INFO | E2E TEST COMPLETED SUCCESSFULLY
+2026-05-23 09:13:13,827 | INFO | Closing browser

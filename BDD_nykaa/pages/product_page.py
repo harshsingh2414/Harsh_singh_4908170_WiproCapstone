@@ -12,6 +12,7 @@ class ProductPage(BasePage):
         By.XPATH,
         "//button[contains(@class,'css-g4vs13')] | //span[contains(@class,'cart-count')]"
     )
+    PRODUCT_COUNT = (By.XPATH, "//*[@id='header-bag-icon']/span")
 
     @allure.step("Add Product To Bag")
     def add_to_bag(self):
@@ -30,3 +31,21 @@ class ProductPage(BasePage):
         )
 
         self.driver.execute_script("arguments[0].click();", cart_btn)
+
+    @allure.step("Get Cart Count")
+    def get_cart_count(self):
+
+        try:
+            count_element = self.wait.until(
+                EC.visibility_of_element_located(self.PRODUCT_COUNT)
+            )
+
+            count_text = count_element.text.strip()
+
+            if count_text.isdigit():
+                return int(count_text)
+
+            return 0
+
+        except Exception:
+            return 0

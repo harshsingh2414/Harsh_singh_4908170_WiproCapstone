@@ -1,0 +1,1131 @@
+2026-05-23 10:39:22,329 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 10:40:34,137 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 10:42:43,444 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 10:44:02,189 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 10:55:28,312 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 10:56:27,830 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 10:59:19,049 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:00:46,542 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:05:59,676 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:06:57,802 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:07:18,517 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:08:09,427 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:11:09,400 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:11:57,085 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:12:05,064 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:12:50,186 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:19:53,952 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:20:41,356 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:24:38,258 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:25:52,341 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:28:47,811 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:30:00,405 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:47:03,553 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 11:49:38,432 | INFO | Clicking proceed button
+2026-05-23 11:49:38,435 | INFO | Initializing Cart Page
+2026-05-23 11:49:49,650 | INFO | Proceed button clicked successfully
+2026-05-23 11:49:50,975 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 12:03:05,405 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 12:03:05,444 | INFO | Opening Nykaa website
+2026-05-23 12:03:05,451 | INFO | Initializing Home Page
+2026-05-23 12:03:20,139 | INFO | Nykaa website opened successfully
+2026-05-23 12:03:29,771 | INFO | Opening login popup
+2026-05-23 12:03:29,791 | INFO | Login Page initialized
+2026-05-23 12:03:34,303 | INFO | Login popup opened successfully
+2026-05-23 12:03:37,063 | INFO | Selecting mobile or email login option
+2026-05-23 12:03:39,659 | INFO | Mobile or email login option selected successfully
+2026-05-23 12:03:40,998 | INFO | Clicking skip login button
+2026-05-23 12:03:51,871 | INFO | Skip login button clicked successfully
+2026-05-23 12:03:54,276 | INFO | Hovering on skin menu
+2026-05-23 12:03:55,102 | INFO | Hovered on skin menu successfully
+2026-05-23 12:03:56,129 | INFO | Clicking moisturizers category
+2026-05-23 12:03:56,372 | INFO | Switching to moisturizer tab
+2026-05-23 12:03:56,488 | INFO | Moisturizer category opened successfully
+2026-05-23 12:04:08,723 | INFO | Loading brand data from Excel
+2026-05-23 12:04:08,824 | INFO | Brand loaded from Excel: Cetaphil
+2026-05-23 12:04:08,826 | INFO | Moisturizer Page initialized
+2026-05-23 12:04:13,047 | INFO | Brand selected successfully: Cetaphil
+2026-05-23 12:04:17,168 | INFO | Selecting first moisturizer product
+2026-05-23 12:04:17,201 | INFO | Moisturizer Page initialized
+2026-05-23 12:04:33,147 | INFO | First moisturizer product selected
+2026-05-23 12:04:35,488 | INFO | Switched to product page tab successfully
+2026-05-23 12:04:43,668 | INFO | Adding product to bag
+2026-05-23 12:04:43,673 | INFO | Product Page initialized
+2026-05-23 12:04:45,753 | INFO | Product added to bag successfully
+2026-05-23 12:04:49,142 | INFO | Opening cart from product page
+2026-05-23 12:04:49,143 | INFO | Product Page initialized
+2026-05-23 12:04:50,713 | INFO | Cart opened successfully from product page
+2026-05-23 12:04:51,956 | INFO | Clicking proceed button
+2026-05-23 12:04:51,958 | INFO | Initializing Cart Page
+2026-05-23 12:05:02,070 | INFO | Proceed button clicked successfully
+2026-05-23 12:05:06,964 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 12:13:35,216 | INFO | START SCENARIO: User searches for invalid product
+2026-05-23 12:13:35,289 | INFO | Opening Nykaa website
+2026-05-23 12:13:35,295 | INFO | Initializing Home Page
+2026-05-23 12:13:47,546 | INFO | Nykaa website opened successfully
+2026-05-23 12:13:55,604 | INFO | END SCENARIO: User searches for invalid product
+2026-05-23 12:14:04,913 | INFO | START SCENARIO: Proceed button should not be visible for empty cart
+2026-05-23 12:14:04,952 | INFO | Opening Nykaa website
+2026-05-23 12:14:04,954 | INFO | Initializing Home Page
+2026-05-23 12:14:05,811 | INFO | Nykaa website opened successfully
+2026-05-23 12:14:28,793 | INFO | Opening cart
+2026-05-23 12:14:36,251 | INFO | Cart opened successfully
+2026-05-23 12:14:42,483 | INFO | END SCENARIO: Proceed button should not be visible for empty cart
+2026-05-23 12:19:02,280 | INFO | START SCENARIO: User searches for invalid product
+2026-05-23 12:19:02,373 | INFO | Opening Nykaa website
+2026-05-23 12:19:02,398 | INFO | Initializing Home Page
+2026-05-23 12:19:04,169 | INFO | Nykaa website opened successfully
+2026-05-23 12:19:25,607 | INFO | END SCENARIO: User searches for invalid product
+2026-05-23 12:19:34,424 | INFO | START SCENARIO: Proceed button should not be visible for empty cart
+2026-05-23 12:19:34,454 | INFO | Opening Nykaa website
+2026-05-23 12:19:34,496 | INFO | Initializing Home Page
+2026-05-23 12:19:59,486 | INFO | Nykaa website opened successfully
+2026-05-23 12:20:14,959 | INFO | Opening cart
+2026-05-23 12:20:15,849 | INFO | Cart opened successfully
+2026-05-23 12:20:21,146 | INFO | END SCENARIO: Proceed button should not be visible for empty cart
+2026-05-23 12:20:30,929 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 12:20:30,935 | INFO | Opening Nykaa website
+2026-05-23 12:20:30,936 | INFO | Initializing Home Page
+2026-05-23 12:20:44,367 | INFO | Nykaa website opened successfully
+2026-05-23 12:20:53,166 | INFO | Opening login popup
+2026-05-23 12:20:53,197 | INFO | Login Page initialized
+2026-05-23 12:21:04,666 | INFO | Login popup opened successfully
+2026-05-23 12:21:08,293 | INFO | Selecting mobile or email login option
+2026-05-23 12:21:11,168 | INFO | Mobile or email login option selected successfully
+2026-05-23 12:21:12,065 | INFO | Clicking skip login button
+2026-05-23 12:21:26,354 | INFO | Skip login button clicked successfully
+2026-05-23 12:21:32,755 | INFO | Hovering on skin menu
+2026-05-23 12:21:34,304 | INFO | Hovered on skin menu successfully
+2026-05-23 12:21:35,354 | INFO | Clicking moisturizers category
+2026-05-23 12:21:37,451 | INFO | Switching to moisturizer tab
+2026-05-23 12:21:37,621 | INFO | Moisturizer category opened successfully
+2026-05-23 12:21:51,062 | INFO | Loading brand data from Excel
+2026-05-23 12:21:51,107 | INFO | Brand loaded from Excel: Cetaphil
+2026-05-23 12:21:51,109 | INFO | Moisturizer Page initialized
+2026-05-23 12:21:52,533 | INFO | Brand selected successfully: Cetaphil
+2026-05-23 12:21:53,194 | INFO | Selecting first moisturizer product
+2026-05-23 12:21:53,197 | INFO | Moisturizer Page initialized
+2026-05-23 12:21:54,979 | INFO | First moisturizer product selected
+2026-05-23 12:21:55,066 | INFO | Switched to product page tab successfully
+2026-05-23 12:22:18,282 | INFO | Adding product to bag
+2026-05-23 12:22:18,536 | INFO | Product Page initialized
+2026-05-23 12:22:20,624 | INFO | Product added to bag successfully
+2026-05-23 12:22:30,546 | INFO | Opening cart from product page
+2026-05-23 12:22:30,656 | INFO | Product Page initialized
+2026-05-23 12:22:33,803 | INFO | Cart opened successfully from product page
+2026-05-23 12:22:44,405 | INFO | Clicking proceed button
+2026-05-23 12:22:44,413 | INFO | Initializing Cart Page
+2026-05-23 12:23:07,813 | INFO | Proceed button clicked successfully
+2026-05-23 12:23:09,234 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 12:23:24,727 | INFO | START SCENARIO: User adds same product multiple times to cart
+2026-05-23 12:23:24,748 | INFO | Opening Nykaa website
+2026-05-23 12:23:24,751 | INFO | Initializing Home Page
+2026-05-23 12:23:51,366 | INFO | Nykaa website opened successfully
+2026-05-23 12:23:56,206 | INFO | Hovering on skin menu
+2026-05-23 12:23:57,184 | INFO | Hovered on skin menu successfully
+2026-05-23 12:23:58,994 | INFO | Clicking moisturizers category
+2026-05-23 12:24:00,597 | INFO | Switching to moisturizer tab
+2026-05-23 12:24:00,830 | INFO | Moisturizer category opened successfully
+2026-05-23 12:24:15,136 | INFO | Selecting first moisturizer product
+2026-05-23 12:24:15,138 | INFO | Moisturizer Page initialized
+2026-05-23 12:24:17,494 | INFO | First moisturizer product selected
+2026-05-23 12:24:17,556 | INFO | Switched to product page tab successfully
+2026-05-23 12:24:23,435 | INFO | Adding product to bag
+2026-05-23 12:24:23,438 | INFO | Product Page initialized
+2026-05-23 12:24:29,116 | INFO | Product added to bag successfully
+2026-05-23 12:24:30,327 | INFO | Adding product to bag
+2026-05-23 12:24:30,336 | INFO | Product Page initialized
+2026-05-23 12:24:32,568 | INFO | Product added to bag successfully
+2026-05-23 12:24:35,451 | INFO | Opening cart from product page
+2026-05-23 12:24:35,459 | INFO | Product Page initialized
+2026-05-23 12:24:36,226 | INFO | Cart opened successfully from product page
+2026-05-23 12:24:37,433 | INFO | Checking cart items
+2026-05-23 12:24:37,434 | INFO | Initializing Cart Page
+2026-05-23 12:24:37,557 | INFO | Cart contains 1 item(s)
+2026-05-23 12:24:38,179 | INFO | END SCENARIO: User adds same product multiple times to cart
+2026-05-23 12:24:46,037 | INFO | START SCENARIO: User removes product from cart
+2026-05-23 12:24:46,067 | INFO | Opening Nykaa website
+2026-05-23 12:24:46,069 | INFO | Initializing Home Page
+2026-05-23 12:25:01,096 | INFO | Nykaa website opened successfully
+2026-05-23 12:25:09,290 | INFO | Hovering on skin menu
+2026-05-23 12:25:16,024 | INFO | Hovered on skin menu successfully
+2026-05-23 12:25:17,521 | INFO | Clicking moisturizers category
+2026-05-23 12:25:18,448 | INFO | Switching to moisturizer tab
+2026-05-23 12:25:18,560 | INFO | Moisturizer category opened successfully
+2026-05-23 12:25:25,898 | INFO | Selecting first moisturizer product
+2026-05-23 12:25:25,900 | INFO | Moisturizer Page initialized
+2026-05-23 12:25:30,361 | INFO | First moisturizer product selected
+2026-05-23 12:25:30,477 | INFO | Switched to product page tab successfully
+2026-05-23 12:25:51,496 | INFO | Adding product to bag
+2026-05-23 12:25:51,500 | INFO | Product Page initialized
+2026-05-23 12:25:52,784 | INFO | Product added to bag successfully
+2026-05-23 12:25:58,219 | INFO | Opening cart from product page
+2026-05-23 12:25:58,223 | INFO | Product Page initialized
+2026-05-23 12:26:02,723 | INFO | Cart opened successfully from product page
+2026-05-23 12:26:04,162 | INFO | Deleting product from cart
+2026-05-23 12:26:04,164 | INFO | Initializing Cart Page
+2026-05-23 12:26:07,220 | INFO | Product deleted successfully
+2026-05-23 12:26:07,893 | INFO | Verifying product removal from cart
+2026-05-23 12:26:08,083 | INFO | Product removed successfully
+2026-05-23 12:26:08,656 | INFO | END SCENARIO: User removes product from cart
+2026-05-23 12:26:17,349 | INFO | START SCENARIO: User searches valid product
+2026-05-23 12:26:17,391 | INFO | Opening Nykaa website
+2026-05-23 12:26:17,399 | INFO | Initializing Home Page
+2026-05-23 12:26:20,176 | INFO | Nykaa website opened successfully
+2026-05-23 12:26:39,049 | INFO | Searching for product: moisturizer
+2026-05-23 12:26:56,982 | INFO | Search completed for: moisturizer
+2026-05-23 12:27:02,081 | INFO | END SCENARIO: User searches valid product
+2026-05-23 12:27:06,450 | INFO | START SCENARIO: Cart should retain product after refresh
+2026-05-23 12:27:06,463 | INFO | Opening Nykaa website
+2026-05-23 12:27:06,465 | INFO | Initializing Home Page
+2026-05-23 12:27:07,346 | INFO | Nykaa website opened successfully
+2026-05-23 12:27:28,708 | INFO | Hovering on skin menu
+2026-05-23 12:27:34,752 | INFO | Hovered on skin menu successfully
+2026-05-23 12:27:37,747 | INFO | Clicking moisturizers category
+2026-05-23 12:27:43,800 | INFO | Switching to moisturizer tab
+2026-05-23 12:27:52,241 | INFO | Moisturizer category opened successfully
+2026-05-23 12:27:55,161 | INFO | Selecting first moisturizer product
+2026-05-23 12:27:55,164 | INFO | Moisturizer Page initialized
+2026-05-23 12:27:56,906 | INFO | First moisturizer product selected
+2026-05-23 12:27:56,987 | INFO | Switched to product page tab successfully
+2026-05-23 12:28:03,313 | INFO | Adding product to bag
+2026-05-23 12:28:03,318 | INFO | Product Page initialized
+2026-05-23 12:28:07,802 | INFO | Product added to bag successfully
+2026-05-23 12:28:15,108 | INFO | Opening cart from product page
+2026-05-23 12:28:15,117 | INFO | Product Page initialized
+2026-05-23 12:28:17,452 | INFO | Cart opened successfully from product page
+2026-05-23 12:28:18,476 | INFO | Checking cart items
+2026-05-23 12:28:18,478 | INFO | Initializing Cart Page
+2026-05-23 12:28:18,587 | INFO | Cart contains 1 item(s)
+2026-05-23 12:28:19,230 | INFO | END SCENARIO: Cart should retain product after refresh
+2026-05-23 12:36:24,883 | INFO | START SCENARIO: User searches for invalid product
+2026-05-23 12:36:24,904 | INFO | Opening Nykaa website
+2026-05-23 12:36:24,906 | INFO | Initializing Home Page
+2026-05-23 12:36:37,992 | INFO | Nykaa website opened successfully
+2026-05-23 12:36:45,325 | INFO | END SCENARIO: User searches for invalid product
+2026-05-23 12:36:54,178 | INFO | START SCENARIO: Proceed button should not be visible for empty cart
+2026-05-23 12:36:54,196 | INFO | Opening Nykaa website
+2026-05-23 12:36:54,200 | INFO | Initializing Home Page
+2026-05-23 12:36:55,471 | INFO | Nykaa website opened successfully
+2026-05-23 12:37:17,048 | INFO | Opening cart
+2026-05-23 12:37:19,136 | INFO | Cart opened successfully
+2026-05-23 12:37:27,557 | INFO | END SCENARIO: Proceed button should not be visible for empty cart
+2026-05-23 12:37:34,497 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 12:37:34,515 | INFO | Opening Nykaa website
+2026-05-23 12:37:34,519 | INFO | Initializing Home Page
+2026-05-23 12:37:46,276 | INFO | Nykaa website opened successfully
+2026-05-23 12:37:52,181 | INFO | Opening login popup
+2026-05-23 12:37:52,192 | INFO | Login Page initialized
+2026-05-23 12:37:52,711 | INFO | Login popup opened successfully
+2026-05-23 12:37:55,536 | INFO | Selecting mobile or email login option
+2026-05-23 12:38:08,964 | INFO | Mobile or email login option selected successfully
+2026-05-23 12:38:13,384 | INFO | Clicking skip login button
+2026-05-23 12:38:20,040 | INFO | Skip login button clicked successfully
+2026-05-23 12:38:23,172 | INFO | Hovering on skin menu
+2026-05-23 12:38:23,734 | INFO | Hovered on skin menu successfully
+2026-05-23 12:38:24,408 | INFO | Clicking moisturizers category
+2026-05-23 12:38:24,572 | INFO | Switching to moisturizer tab
+2026-05-23 12:38:24,604 | INFO | Moisturizer category opened successfully
+2026-05-23 12:38:35,318 | INFO | Loading brand data from Excel
+2026-05-23 12:38:35,366 | INFO | Brand loaded from Excel: Cetaphil
+2026-05-23 12:38:35,368 | INFO | Moisturizer Page initialized
+2026-05-23 12:38:37,070 | INFO | Brand selected successfully: Cetaphil
+2026-05-23 12:38:38,431 | INFO | Selecting first moisturizer product
+2026-05-23 12:38:38,432 | INFO | Moisturizer Page initialized
+2026-05-23 12:38:39,371 | INFO | First moisturizer product selected
+2026-05-23 12:38:39,425 | INFO | Switched to product page tab successfully
+2026-05-23 12:38:46,586 | INFO | Adding product to bag
+2026-05-23 12:38:46,589 | INFO | Product Page initialized
+2026-05-23 12:38:49,148 | INFO | Product added to bag successfully
+2026-05-23 12:38:51,929 | INFO | Opening cart from product page
+2026-05-23 12:38:51,931 | INFO | Product Page initialized
+2026-05-23 12:38:53,037 | INFO | Cart opened successfully from product page
+2026-05-23 12:38:53,983 | INFO | Clicking proceed button
+2026-05-23 12:38:53,984 | INFO | Initializing Cart Page
+2026-05-23 12:38:57,308 | INFO | Proceed button clicked successfully
+2026-05-23 12:38:58,650 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 12:39:03,506 | INFO | START SCENARIO: User adds same product multiple times to cart
+2026-05-23 12:39:03,514 | INFO | Opening Nykaa website
+2026-05-23 12:39:03,515 | INFO | Initializing Home Page
+2026-05-23 12:39:04,342 | INFO | Nykaa website opened successfully
+2026-05-23 12:39:18,012 | INFO | Hovering on skin menu
+2026-05-23 12:39:18,682 | INFO | Hovered on skin menu successfully
+2026-05-23 12:39:21,604 | INFO | Clicking moisturizers category
+2026-05-23 12:39:26,057 | INFO | Switching to moisturizer tab
+2026-05-23 12:39:26,239 | INFO | Moisturizer category opened successfully
+2026-05-23 12:39:36,342 | INFO | Selecting first moisturizer product
+2026-05-23 12:39:36,344 | INFO | Moisturizer Page initialized
+2026-05-23 12:39:38,302 | INFO | First moisturizer product selected
+2026-05-23 12:39:38,354 | INFO | Switched to product page tab successfully
+2026-05-23 12:39:41,714 | INFO | Adding product to bag
+2026-05-23 12:39:41,726 | INFO | Product Page initialized
+2026-05-23 12:39:51,822 | INFO | Product added to bag successfully
+2026-05-23 12:39:55,621 | INFO | Adding product to bag
+2026-05-23 12:39:55,625 | INFO | Product Page initialized
+2026-05-23 12:39:58,648 | INFO | Product added to bag successfully
+2026-05-23 12:40:00,259 | INFO | Opening cart from product page
+2026-05-23 12:40:00,262 | INFO | Product Page initialized
+2026-05-23 12:40:01,065 | INFO | Cart opened successfully from product page
+2026-05-23 12:40:02,961 | INFO | Checking cart items
+2026-05-23 12:40:02,963 | INFO | Initializing Cart Page
+2026-05-23 12:40:03,097 | INFO | Cart contains 1 item(s)
+2026-05-23 12:40:03,656 | INFO | END SCENARIO: User adds same product multiple times to cart
+2026-05-23 12:40:08,317 | INFO | START SCENARIO: User removes product from cart
+2026-05-23 12:40:08,323 | INFO | Opening Nykaa website
+2026-05-23 12:40:08,324 | INFO | Initializing Home Page
+2026-05-23 12:40:17,026 | INFO | Nykaa website opened successfully
+2026-05-23 12:40:22,293 | INFO | Hovering on skin menu
+2026-05-23 12:40:22,960 | INFO | Hovered on skin menu successfully
+2026-05-23 12:40:24,098 | INFO | Clicking moisturizers category
+2026-05-23 12:40:30,917 | INFO | Switching to moisturizer tab
+2026-05-23 12:40:35,573 | INFO | Moisturizer category opened successfully
+2026-05-23 12:40:40,968 | INFO | Selecting first moisturizer product
+2026-05-23 12:40:40,972 | INFO | Moisturizer Page initialized
+2026-05-23 12:40:43,872 | INFO | First moisturizer product selected
+2026-05-23 12:40:43,981 | INFO | Switched to product page tab successfully
+2026-05-23 12:40:48,822 | INFO | Adding product to bag
+2026-05-23 12:40:48,824 | INFO | Product Page initialized
+2026-05-23 12:40:57,070 | INFO | Product added to bag successfully
+2026-05-23 12:40:59,936 | INFO | Opening cart from product page
+2026-05-23 12:40:59,940 | INFO | Product Page initialized
+2026-05-23 12:41:01,111 | INFO | Cart opened successfully from product page
+2026-05-23 12:41:02,085 | INFO | Deleting product from cart
+2026-05-23 12:41:02,086 | INFO | Initializing Cart Page
+2026-05-23 12:41:03,273 | INFO | Product deleted successfully
+2026-05-23 12:41:04,819 | INFO | Verifying product removal from cart
+2026-05-23 12:41:05,652 | INFO | Product removed successfully
+2026-05-23 12:41:06,468 | INFO | END SCENARIO: User removes product from cart
+2026-05-23 12:41:12,422 | INFO | START SCENARIO: User searches valid product
+2026-05-23 12:41:12,458 | INFO | Opening Nykaa website
+2026-05-23 12:41:12,468 | INFO | Initializing Home Page
+2026-05-23 12:41:29,310 | INFO | Nykaa website opened successfully
+2026-05-23 12:41:35,343 | INFO | END SCENARIO: User searches valid product
+2026-05-23 12:41:42,465 | INFO | START SCENARIO: Cart should retain product after refresh
+2026-05-23 12:41:42,543 | INFO | Opening Nykaa website
+2026-05-23 12:41:42,548 | INFO | Initializing Home Page
+2026-05-23 12:41:58,807 | INFO | Nykaa website opened successfully
+2026-05-23 12:42:03,120 | INFO | Hovering on skin menu
+2026-05-23 12:42:03,769 | INFO | Hovered on skin menu successfully
+2026-05-23 12:42:06,298 | INFO | Clicking moisturizers category
+2026-05-23 12:42:12,375 | INFO | Switching to moisturizer tab
+2026-05-23 12:42:12,484 | INFO | Moisturizer category opened successfully
+2026-05-23 12:42:18,238 | INFO | Selecting first moisturizer product
+2026-05-23 12:42:18,239 | INFO | Moisturizer Page initialized
+2026-05-23 12:42:20,368 | INFO | First moisturizer product selected
+2026-05-23 12:42:20,417 | INFO | Switched to product page tab successfully
+2026-05-23 12:42:24,870 | INFO | Adding product to bag
+2026-05-23 12:42:24,872 | INFO | Product Page initialized
+2026-05-23 12:42:31,892 | INFO | Product added to bag successfully
+2026-05-23 12:42:33,022 | INFO | Opening cart from product page
+2026-05-23 12:42:33,024 | INFO | Product Page initialized
+2026-05-23 12:42:35,022 | INFO | Cart opened successfully from product page
+2026-05-23 12:42:36,222 | INFO | Checking cart items
+2026-05-23 12:42:36,223 | INFO | Initializing Cart Page
+2026-05-23 12:42:36,349 | INFO | Cart contains 1 item(s)
+2026-05-23 12:42:36,823 | INFO | END SCENARIO: Cart should retain product after refresh
+2026-05-23 13:44:22,684 | INFO | START SCENARIO: Multiple Product Cart Flow
+2026-05-23 13:44:22,687 | INFO | Opening Nykaa website
+2026-05-23 13:44:22,689 | INFO | Initializing Home Page
+2026-05-23 13:44:32,020 | INFO | Nykaa website opened successfully
+2026-05-23 13:44:37,740 | INFO | END SCENARIO: Multiple Product Cart Flow
+2026-05-23 13:44:47,824 | INFO | START SCENARIO: Remove Product From Cart
+2026-05-23 13:44:47,835 | INFO | Opening Nykaa website
+2026-05-23 13:44:47,836 | INFO | Initializing Home Page
+2026-05-23 13:44:58,618 | INFO | Nykaa website opened successfully
+2026-05-23 13:45:02,984 | INFO | END SCENARIO: Remove Product From Cart
+2026-05-23 13:45:09,260 | INFO | START SCENARIO: Search Bar Validation
+2026-05-23 13:45:09,329 | INFO | Opening Nykaa website
+2026-05-23 13:45:09,342 | INFO | Initializing Home Page
+2026-05-23 13:45:10,316 | INFO | Nykaa website opened successfully
+2026-05-23 13:45:22,447 | INFO | END SCENARIO: Search Bar Validation
+2026-05-23 13:45:30,795 | INFO | START SCENARIO: Cart Persistence After Refresh
+2026-05-23 13:45:30,877 | INFO | Opening Nykaa website
+2026-05-23 13:45:30,882 | INFO | Initializing Home Page
+2026-05-23 13:45:31,905 | INFO | Nykaa website opened successfully
+2026-05-23 13:45:41,213 | INFO | END SCENARIO: Cart Persistence After Refresh
+2026-05-23 13:55:40,102 | INFO | START SCENARIO: Add same product to cart successfully
+2026-05-23 13:55:40,104 | INFO | Opening Nykaa website
+2026-05-23 13:55:40,104 | INFO | Initializing Home Page
+2026-05-23 13:55:42,071 | INFO | Nykaa website opened successfully
+2026-05-23 13:55:42,765 | INFO | Hovering on skin menu
+2026-05-23 13:55:52,255 | INFO | Hovered on skin menu successfully
+2026-05-23 13:55:52,996 | INFO | Clicking moisturizers category
+2026-05-23 13:55:53,857 | INFO | Switching to moisturizer tab
+2026-05-23 13:55:54,020 | INFO | Moisturizer category opened successfully
+2026-05-23 13:56:00,072 | INFO | Selecting first moisturizer product
+2026-05-23 13:56:00,074 | INFO | Moisturizer Page initialized
+2026-05-23 13:56:00,686 | INFO | First moisturizer product selected
+2026-05-23 13:56:00,837 | INFO | Switched to product page tab successfully
+2026-05-23 13:56:04,751 | INFO | Adding product to bag
+2026-05-23 13:56:04,754 | INFO | Product Page initialized
+2026-05-23 13:56:07,346 | INFO | Product added to bag successfully
+2026-05-23 13:56:08,321 | INFO | Adding product to bag
+2026-05-23 13:56:08,324 | INFO | Product Page initialized
+2026-05-23 13:56:17,536 | INFO | Product added to bag successfully
+2026-05-23 13:56:18,127 | INFO | Opening cart from product page
+2026-05-23 13:56:18,129 | INFO | Product Page initialized
+2026-05-23 13:56:19,563 | INFO | Cart opened successfully from product page
+2026-05-23 13:56:20,268 | INFO | Checking cart items
+2026-05-23 13:56:20,269 | INFO | Initializing Cart Page
+2026-05-23 13:56:20,368 | INFO | Cart contains 1 item(s)
+2026-05-23 13:56:20,887 | INFO | END SCENARIO: Add same product to cart successfully
+2026-05-23 13:56:25,611 | INFO | START SCENARIO: Remove product from cart successfully
+2026-05-23 13:56:25,615 | INFO | Opening Nykaa website
+2026-05-23 13:56:25,616 | INFO | Initializing Home Page
+2026-05-23 13:56:26,457 | INFO | Nykaa website opened successfully
+2026-05-23 13:56:41,290 | INFO | Hovering on skin menu
+2026-05-23 13:56:41,998 | INFO | Hovered on skin menu successfully
+2026-05-23 13:56:42,941 | INFO | Clicking moisturizers category
+2026-05-23 13:56:43,615 | INFO | Switching to moisturizer tab
+2026-05-23 13:56:43,745 | INFO | Moisturizer category opened successfully
+2026-05-23 13:56:57,349 | INFO | Selecting first moisturizer product
+2026-05-23 13:56:57,349 | INFO | Moisturizer Page initialized
+2026-05-23 13:56:58,987 | INFO | First moisturizer product selected
+2026-05-23 13:56:59,026 | INFO | Switched to product page tab successfully
+2026-05-23 13:57:02,294 | INFO | Adding product to bag
+2026-05-23 13:57:02,295 | INFO | Product Page initialized
+2026-05-23 13:57:06,917 | INFO | Product added to bag successfully
+2026-05-23 13:57:08,954 | INFO | Opening cart from product page
+2026-05-23 13:57:08,956 | INFO | Product Page initialized
+2026-05-23 13:57:09,842 | INFO | Cart opened successfully from product page
+2026-05-23 13:57:10,548 | INFO | Deleting product from cart
+2026-05-23 13:57:10,550 | INFO | Initializing Cart Page
+2026-05-23 13:57:11,994 | INFO | Product deleted successfully
+2026-05-23 13:57:13,542 | INFO | Verifying product removal from cart
+2026-05-23 13:57:13,746 | INFO | Product removed successfully
+2026-05-23 13:57:14,221 | INFO | END SCENARIO: Remove product from cart successfully
+2026-05-23 13:57:19,622 | INFO | START SCENARIO: Search valid product successfully
+2026-05-23 13:57:19,637 | INFO | Opening Nykaa website
+2026-05-23 13:57:19,644 | INFO | Initializing Home Page
+2026-05-23 13:57:20,823 | INFO | Nykaa website opened successfully
+2026-05-23 13:57:39,491 | INFO | Searching for product: lipstick
+2026-05-23 13:57:49,857 | INFO | Initializing Home Page
+2026-05-23 13:57:59,455 | INFO | Search completed for: lipstick
+2026-05-23 13:58:00,332 | INFO | END SCENARIO: Search valid product successfully
+2026-05-23 13:58:04,527 | INFO | START SCENARIO: Cart should retain products after refresh
+2026-05-23 13:58:04,529 | INFO | Opening Nykaa website
+2026-05-23 13:58:04,530 | INFO | Initializing Home Page
+2026-05-23 13:58:05,149 | INFO | Nykaa website opened successfully
+2026-05-23 13:58:20,807 | INFO | Hovering on skin menu
+2026-05-23 13:58:21,472 | INFO | Hovered on skin menu successfully
+2026-05-23 13:58:22,796 | INFO | Clicking moisturizers category
+2026-05-23 13:58:23,759 | INFO | Switching to moisturizer tab
+2026-05-23 13:58:23,932 | INFO | Moisturizer category opened successfully
+2026-05-23 13:58:36,848 | INFO | Selecting first moisturizer product
+2026-05-23 13:58:36,852 | INFO | Moisturizer Page initialized
+2026-05-23 13:58:42,555 | INFO | First moisturizer product selected
+2026-05-23 13:58:42,603 | INFO | Switched to product page tab successfully
+2026-05-23 13:58:50,823 | INFO | Adding product to bag
+2026-05-23 13:58:50,825 | INFO | Product Page initialized
+2026-05-23 13:58:52,115 | INFO | Product added to bag successfully
+2026-05-23 13:58:53,194 | INFO | Opening cart from product page
+2026-05-23 13:58:53,195 | INFO | Product Page initialized
+2026-05-23 13:58:54,909 | INFO | Cart opened successfully from product page
+2026-05-23 13:58:55,650 | INFO | END SCENARIO: Cart should retain products after refresh
+2026-05-23 14:02:22,887 | INFO | START SCENARIO: Add same product to cart successfully
+2026-05-23 14:02:22,888 | INFO | Opening Nykaa website
+2026-05-23 14:02:22,888 | INFO | Initializing Home Page
+2026-05-23 14:02:24,713 | INFO | Nykaa website opened successfully
+2026-05-23 14:02:25,259 | INFO | Hovering on skin menu
+2026-05-23 14:02:26,574 | INFO | Hovered on skin menu successfully
+2026-05-23 14:02:28,021 | INFO | Clicking moisturizers category
+2026-05-23 14:02:29,001 | INFO | Switching to moisturizer tab
+2026-05-23 14:02:29,322 | INFO | Moisturizer category opened successfully
+2026-05-23 14:02:38,287 | INFO | Selecting first moisturizer product
+2026-05-23 14:02:38,291 | INFO | Moisturizer Page initialized
+2026-05-23 14:02:39,195 | INFO | First moisturizer product selected
+2026-05-23 14:02:39,441 | INFO | Switched to product page tab successfully
+2026-05-23 14:02:43,693 | INFO | Adding product to bag
+2026-05-23 14:02:43,698 | INFO | Product Page initialized
+2026-05-23 14:02:45,517 | INFO | Product added to bag successfully
+2026-05-23 14:02:46,981 | INFO | Adding product to bag
+2026-05-23 14:02:46,988 | INFO | Product Page initialized
+2026-05-23 14:02:53,423 | INFO | Product added to bag successfully
+2026-05-23 14:02:54,288 | INFO | Opening cart from product page
+2026-05-23 14:02:54,290 | INFO | Product Page initialized
+2026-05-23 14:02:54,912 | INFO | Cart opened successfully from product page
+2026-05-23 14:02:55,782 | INFO | Checking cart items
+2026-05-23 14:02:55,784 | INFO | Initializing Cart Page
+2026-05-23 14:02:55,905 | INFO | Cart contains 1 item(s)
+2026-05-23 14:02:56,403 | INFO | END SCENARIO: Add same product to cart successfully
+2026-05-23 14:03:02,825 | INFO | START SCENARIO: Remove product from cart successfully
+2026-05-23 14:03:02,882 | INFO | Opening Nykaa website
+2026-05-23 14:03:02,893 | INFO | Initializing Home Page
+2026-05-23 14:03:13,762 | INFO | Nykaa website opened successfully
+2026-05-23 14:03:17,828 | INFO | Hovering on skin menu
+2026-05-23 14:03:18,371 | INFO | Hovered on skin menu successfully
+2026-05-23 14:03:20,796 | INFO | Clicking moisturizers category
+2026-05-23 14:03:26,008 | INFO | Switching to moisturizer tab
+2026-05-23 14:03:28,253 | INFO | Moisturizer category opened successfully
+2026-05-23 14:03:33,285 | INFO | Selecting first moisturizer product
+2026-05-23 14:03:33,287 | INFO | Moisturizer Page initialized
+2026-05-23 14:03:33,797 | INFO | First moisturizer product selected
+2026-05-23 14:03:33,866 | INFO | Switched to product page tab successfully
+2026-05-23 14:03:43,282 | INFO | Adding product to bag
+2026-05-23 14:03:43,285 | INFO | Product Page initialized
+2026-05-23 14:03:44,144 | INFO | Product added to bag successfully
+2026-05-23 14:03:45,073 | INFO | Opening cart from product page
+2026-05-23 14:03:45,075 | INFO | Product Page initialized
+2026-05-23 14:03:46,500 | INFO | Cart opened successfully from product page
+2026-05-23 14:03:47,244 | INFO | Deleting product from cart
+2026-05-23 14:03:47,246 | INFO | Initializing Cart Page
+2026-05-23 14:03:48,327 | INFO | Product deleted successfully
+2026-05-23 14:03:48,795 | INFO | Verifying product removal from cart
+2026-05-23 14:03:48,896 | INFO | Product removed successfully
+2026-05-23 14:03:49,199 | INFO | END SCENARIO: Remove product from cart successfully
+2026-05-23 14:03:54,074 | INFO | START SCENARIO: Search valid product successfully
+2026-05-23 14:03:54,087 | INFO | Opening Nykaa website
+2026-05-23 14:03:54,091 | INFO | Initializing Home Page
+2026-05-23 14:04:05,581 | INFO | Nykaa website opened successfully
+2026-05-23 14:04:09,252 | INFO | Searching for product: lipstick
+2026-05-23 14:04:20,418 | INFO | Initializing Home Page
+2026-05-23 14:04:23,279 | INFO | Search completed for: lipstick
+2026-05-23 14:04:24,388 | INFO | END SCENARIO: Search valid product successfully
+2026-05-23 14:04:31,762 | INFO | START SCENARIO: Cart should retain products after refresh
+2026-05-23 14:04:31,814 | INFO | Opening Nykaa website
+2026-05-23 14:04:31,830 | INFO | Initializing Home Page
+2026-05-23 14:04:32,755 | INFO | Nykaa website opened successfully
+2026-05-23 14:04:54,391 | INFO | Hovering on skin menu
+2026-05-23 14:04:55,630 | INFO | Hovered on skin menu successfully
+2026-05-23 14:04:57,853 | INFO | Clicking moisturizers category
+2026-05-23 14:05:05,851 | INFO | Switching to moisturizer tab
+2026-05-23 14:05:05,945 | INFO | Moisturizer category opened successfully
+2026-05-23 14:05:20,538 | INFO | Selecting first moisturizer product
+2026-05-23 14:05:20,542 | INFO | Moisturizer Page initialized
+2026-05-23 14:05:20,767 | INFO | END SCENARIO: Cart should retain products after refresh
+2026-05-23 14:07:31,795 | INFO | START SCENARIO: Add same product to cart successfully
+2026-05-23 14:07:31,797 | INFO | Opening Nykaa website
+2026-05-23 14:07:31,797 | INFO | Initializing Home Page
+2026-05-23 14:07:33,611 | INFO | Nykaa website opened successfully
+2026-05-23 14:07:35,994 | INFO | Hovering on skin menu
+2026-05-23 14:07:38,414 | INFO | Hovered on skin menu successfully
+2026-05-23 14:07:40,950 | INFO | Clicking moisturizers category
+2026-05-23 14:07:43,186 | INFO | Switching to moisturizer tab
+2026-05-23 14:07:43,354 | INFO | Moisturizer category opened successfully
+2026-05-23 14:07:49,161 | INFO | Selecting first moisturizer product
+2026-05-23 14:07:49,164 | INFO | Moisturizer Page initialized
+2026-05-23 14:07:52,231 | INFO | First moisturizer product selected
+2026-05-23 14:07:52,363 | INFO | Switched to product page tab successfully
+2026-05-23 14:07:59,541 | INFO | Adding product to bag
+2026-05-23 14:07:59,543 | INFO | Product Page initialized
+2026-05-23 14:08:00,890 | INFO | Product added to bag successfully
+2026-05-23 14:08:02,004 | INFO | Adding product to bag
+2026-05-23 14:08:02,009 | INFO | Product Page initialized
+2026-05-23 14:08:04,544 | INFO | Product added to bag successfully
+2026-05-23 14:08:05,762 | INFO | Opening cart from product page
+2026-05-23 14:08:05,764 | INFO | Product Page initialized
+2026-05-23 14:08:06,245 | INFO | Cart opened successfully from product page
+2026-05-23 14:08:06,864 | INFO | Checking cart items
+2026-05-23 14:08:06,866 | INFO | Initializing Cart Page
+2026-05-23 14:08:06,960 | INFO | Cart contains 1 item(s)
+2026-05-23 14:08:07,382 | INFO | END SCENARIO: Add same product to cart successfully
+2026-05-23 14:08:12,523 | INFO | START SCENARIO: Remove product from cart successfully
+2026-05-23 14:08:12,527 | INFO | Opening Nykaa website
+2026-05-23 14:08:12,534 | INFO | Initializing Home Page
+2026-05-23 14:08:23,727 | INFO | Nykaa website opened successfully
+2026-05-23 14:08:27,579 | INFO | Hovering on skin menu
+2026-05-23 14:08:28,206 | INFO | Hovered on skin menu successfully
+2026-05-23 14:08:29,554 | INFO | Clicking moisturizers category
+2026-05-23 14:08:35,321 | INFO | Switching to moisturizer tab
+2026-05-23 14:08:35,438 | INFO | Moisturizer category opened successfully
+2026-05-23 14:08:46,301 | INFO | Selecting first moisturizer product
+2026-05-23 14:08:46,304 | INFO | Moisturizer Page initialized
+2026-05-23 14:08:47,726 | INFO | First moisturizer product selected
+2026-05-23 14:08:47,776 | INFO | Switched to product page tab successfully
+2026-05-23 14:08:50,097 | INFO | Adding product to bag
+2026-05-23 14:08:50,099 | INFO | Product Page initialized
+2026-05-23 14:08:53,600 | INFO | Product added to bag successfully
+2026-05-23 14:08:54,588 | INFO | Opening cart from product page
+2026-05-23 14:08:54,590 | INFO | Product Page initialized
+2026-05-23 14:08:55,692 | INFO | Cart opened successfully from product page
+2026-05-23 14:08:56,803 | INFO | Deleting product from cart
+2026-05-23 14:08:56,804 | INFO | Initializing Cart Page
+2026-05-23 14:08:57,795 | INFO | Product deleted successfully
+2026-05-23 14:08:58,172 | INFO | Verifying product removal from cart
+2026-05-23 14:08:58,253 | INFO | Product removed successfully
+2026-05-23 14:08:58,673 | INFO | END SCENARIO: Remove product from cart successfully
+2026-05-23 14:09:05,189 | INFO | START SCENARIO: Search valid product successfully
+2026-05-23 14:09:05,269 | INFO | Opening Nykaa website
+2026-05-23 14:09:05,329 | INFO | Initializing Home Page
+2026-05-23 14:09:06,251 | INFO | Nykaa website opened successfully
+2026-05-23 14:09:18,923 | INFO | Searching for product: lipstick
+2026-05-23 14:09:31,585 | INFO | Initializing Home Page
+2026-05-23 14:09:36,896 | INFO | Search completed for: lipstick
+2026-05-23 14:09:37,664 | INFO | Verifying search results
+2026-05-23 14:09:37,774 | INFO | Search results displayed successfully: 20 item(s)
+2026-05-23 14:09:38,500 | INFO | END SCENARIO: Search valid product successfully
+2026-05-23 14:09:42,699 | INFO | START SCENARIO: Cart should retain products after refresh
+2026-05-23 14:09:42,706 | INFO | Opening Nykaa website
+2026-05-23 14:09:42,707 | INFO | Initializing Home Page
+2026-05-23 14:09:43,511 | INFO | Nykaa website opened successfully
+2026-05-23 14:09:57,084 | INFO | Hovering on skin menu
+2026-05-23 14:09:58,641 | INFO | Hovered on skin menu successfully
+2026-05-23 14:09:59,387 | INFO | Clicking moisturizers category
+2026-05-23 14:09:59,811 | INFO | Switching to moisturizer tab
+2026-05-23 14:09:59,893 | INFO | Moisturizer category opened successfully
+2026-05-23 14:10:11,938 | INFO | Selecting first moisturizer product
+2026-05-23 14:10:11,942 | INFO | Moisturizer Page initialized
+2026-05-23 14:10:15,898 | INFO | First moisturizer product selected
+2026-05-23 14:10:15,926 | INFO | Switched to product page tab successfully
+2026-05-23 14:10:23,313 | INFO | Adding product to bag
+2026-05-23 14:10:23,314 | INFO | Product Page initialized
+2026-05-23 14:10:24,071 | INFO | Product added to bag successfully
+2026-05-23 14:10:25,066 | INFO | Opening cart from product page
+2026-05-23 14:10:25,067 | INFO | Product Page initialized
+2026-05-23 14:10:27,127 | INFO | Cart opened successfully from product page
+2026-05-23 14:10:27,593 | INFO | END SCENARIO: Cart should retain products after refresh
+2026-05-23 14:16:37,860 | INFO | START SCENARIO: Search valid product successfully
+2026-05-23 14:16:37,863 | INFO | Opening Nykaa website
+2026-05-23 14:16:37,864 | INFO | Initializing Home Page
+2026-05-23 14:16:43,162 | INFO | Nykaa website opened successfully
+2026-05-23 14:16:53,846 | INFO | Searching for product: lipstick
+2026-05-23 14:17:08,407 | INFO | Search completed for: lipstick
+2026-05-23 14:17:11,319 | INFO | Verifying search results
+2026-05-23 14:17:12,722 | INFO | Search results displayed successfully: 20 item(s)
+2026-05-23 14:17:14,153 | INFO | END SCENARIO: Search valid product successfully
+2026-05-23 14:17:18,645 | INFO | START SCENARIO: Cart should retain products after refresh
+2026-05-23 14:17:18,649 | INFO | Opening Nykaa website
+2026-05-23 14:17:18,651 | INFO | Initializing Home Page
+2026-05-23 14:17:19,409 | INFO | Nykaa website opened successfully
+2026-05-23 14:17:35,543 | INFO | Hovering on skin menu
+2026-05-23 14:17:36,684 | INFO | Hovered on skin menu successfully
+2026-05-23 14:17:41,295 | INFO | Clicking moisturizers category
+2026-05-23 14:17:43,732 | INFO | Switching to moisturizer tab
+2026-05-23 14:17:43,855 | INFO | Moisturizer category opened successfully
+2026-05-23 14:17:48,806 | INFO | Selecting first moisturizer product
+2026-05-23 14:17:48,807 | INFO | Moisturizer Page initialized
+2026-05-23 14:17:52,679 | INFO | First moisturizer product selected
+2026-05-23 14:17:52,747 | INFO | Switched to product page tab successfully
+2026-05-23 14:17:55,742 | INFO | Adding product to bag
+2026-05-23 14:17:55,744 | INFO | Product Page initialized
+2026-05-23 14:17:59,543 | INFO | Product added to bag successfully
+2026-05-23 14:18:00,898 | INFO | Opening cart from product page
+2026-05-23 14:18:00,899 | INFO | Product Page initialized
+2026-05-23 14:18:02,475 | INFO | Cart opened successfully from product page
+2026-05-23 14:18:03,152 | INFO | END SCENARIO: Cart should retain products after refresh
+2026-05-23 14:23:22,963 | INFO | START SCENARIO: Cart should retain products after refresh
+2026-05-23 14:23:22,969 | INFO | Opening Nykaa website
+2026-05-23 14:23:22,970 | INFO | Initializing Home Page
+2026-05-23 14:23:28,347 | INFO | Nykaa website opened successfully
+2026-05-23 14:23:36,056 | INFO | Hovering on skin menu
+2026-05-23 14:23:43,418 | INFO | Hovered on skin menu successfully
+2026-05-23 14:23:44,804 | INFO | Clicking moisturizers category
+2026-05-23 14:23:45,748 | INFO | Switching to moisturizer tab
+2026-05-23 14:23:45,826 | INFO | Moisturizer category opened successfully
+2026-05-23 14:23:50,460 | INFO | Selecting first moisturizer product
+2026-05-23 14:23:50,462 | INFO | Moisturizer Page initialized
+2026-05-23 14:23:51,392 | INFO | First moisturizer product selected
+2026-05-23 14:23:51,466 | INFO | Switched to product page tab successfully
+2026-05-23 14:23:59,739 | INFO | Adding product to bag
+2026-05-23 14:23:59,744 | INFO | Product Page initialized
+2026-05-23 14:24:01,134 | INFO | Product added to bag successfully
+2026-05-23 14:24:02,300 | INFO | Opening cart from product page
+2026-05-23 14:24:02,307 | INFO | Product Page initialized
+2026-05-23 14:24:04,249 | INFO | Cart opened successfully from product page
+2026-05-23 14:24:04,700 | INFO | Refreshing cart page
+2026-05-23 14:24:07,795 | INFO | Cart page refreshed successfully
+2026-05-23 14:24:09,143 | INFO | Checking cart items
+2026-05-23 14:24:09,145 | INFO | Initializing Cart Page
+2026-05-23 14:24:09,221 | INFO | Cart contains 1 item(s)
+2026-05-23 14:24:09,725 | INFO | END SCENARIO: Cart should retain products after refresh
+2026-05-23 14:24:32,304 | INFO | START SCENARIO: Add same product to cart successfully
+2026-05-23 14:24:32,305 | INFO | Opening Nykaa website
+2026-05-23 14:24:32,305 | INFO | Initializing Home Page
+2026-05-23 14:24:37,003 | INFO | Nykaa website opened successfully
+2026-05-23 14:24:47,686 | INFO | Hovering on skin menu
+2026-05-23 14:24:55,457 | INFO | Hovered on skin menu successfully
+2026-05-23 14:24:56,407 | INFO | Clicking moisturizers category
+2026-05-23 14:24:56,868 | INFO | Switching to moisturizer tab
+2026-05-23 14:24:57,007 | INFO | Moisturizer category opened successfully
+2026-05-23 14:25:00,622 | INFO | Selecting first moisturizer product
+2026-05-23 14:25:00,626 | INFO | Moisturizer Page initialized
+2026-05-23 14:25:01,786 | INFO | First moisturizer product selected
+2026-05-23 14:25:01,842 | INFO | Switched to product page tab successfully
+2026-05-23 14:25:11,368 | INFO | Adding product to bag
+2026-05-23 14:25:11,371 | INFO | Product Page initialized
+2026-05-23 14:25:12,496 | INFO | Product added to bag successfully
+2026-05-23 14:25:13,476 | INFO | Adding product to bag
+2026-05-23 14:25:13,478 | INFO | Product Page initialized
+2026-05-23 14:25:15,378 | INFO | Product added to bag successfully
+2026-05-23 14:25:15,919 | INFO | Opening cart from product page
+2026-05-23 14:25:15,920 | INFO | Product Page initialized
+2026-05-23 14:25:16,342 | INFO | Cart opened successfully from product page
+2026-05-23 14:25:17,601 | INFO | Checking cart items
+2026-05-23 14:25:17,601 | INFO | Initializing Cart Page
+2026-05-23 14:25:18,154 | INFO | Cart contains 1 item(s)
+2026-05-23 14:25:18,596 | INFO | END SCENARIO: Add same product to cart successfully
+2026-05-23 14:25:22,994 | INFO | START SCENARIO: Remove product from cart successfully
+2026-05-23 14:25:22,997 | INFO | Opening Nykaa website
+2026-05-23 14:25:22,998 | INFO | Initializing Home Page
+2026-05-23 14:25:24,081 | INFO | Nykaa website opened successfully
+2026-05-23 14:25:36,544 | INFO | Hovering on skin menu
+2026-05-23 14:25:44,645 | INFO | Hovered on skin menu successfully
+2026-05-23 14:25:49,257 | INFO | Clicking moisturizers category
+2026-05-23 14:26:01,379 | INFO | Switching to moisturizer tab
+2026-05-23 14:26:06,386 | INFO | Moisturizer category opened successfully
+2026-05-23 14:26:18,493 | INFO | Selecting first moisturizer product
+2026-05-23 14:26:18,498 | INFO | Moisturizer Page initialized
+2026-05-23 14:26:23,381 | INFO | First moisturizer product selected
+2026-05-23 14:26:23,561 | INFO | Switched to product page tab successfully
+2026-05-23 14:26:39,627 | INFO | Adding product to bag
+2026-05-23 14:26:39,629 | INFO | Product Page initialized
+2026-05-23 14:26:41,457 | INFO | Product added to bag successfully
+2026-05-23 14:26:46,672 | INFO | Opening cart from product page
+2026-05-23 14:26:46,689 | INFO | Product Page initialized
+2026-05-23 14:26:48,819 | INFO | Cart opened successfully from product page
+2026-05-23 14:26:49,847 | INFO | Deleting product from cart
+2026-05-23 14:26:49,855 | INFO | Initializing Cart Page
+2026-05-23 14:26:51,614 | INFO | Product deleted successfully
+2026-05-23 14:26:52,597 | INFO | Verifying product removal from cart
+2026-05-23 14:26:52,819 | INFO | Product removed successfully
+2026-05-23 14:26:53,208 | INFO | END SCENARIO: Remove product from cart successfully
+2026-05-23 14:26:58,234 | INFO | START SCENARIO: Search valid product successfully
+2026-05-23 14:26:58,237 | INFO | Opening Nykaa website
+2026-05-23 14:26:58,238 | INFO | Initializing Home Page
+2026-05-23 14:27:12,276 | INFO | Nykaa website opened successfully
+2026-05-23 14:27:19,765 | INFO | Searching for product: lipstick
+2026-05-23 14:27:39,344 | INFO | Search completed for: lipstick
+2026-05-23 14:27:40,374 | INFO | Verifying search results
+2026-05-23 14:27:40,646 | INFO | Search results displayed successfully: 20 item(s)
+2026-05-23 14:27:41,335 | INFO | END SCENARIO: Search valid product successfully
+2026-05-23 14:27:45,248 | INFO | START SCENARIO: Cart should retain products after refresh
+2026-05-23 14:27:45,252 | INFO | Opening Nykaa website
+2026-05-23 14:27:45,252 | INFO | Initializing Home Page
+2026-05-23 14:28:00,239 | INFO | Nykaa website opened successfully
+2026-05-23 14:28:04,180 | INFO | Hovering on skin menu
+2026-05-23 14:28:04,987 | INFO | Hovered on skin menu successfully
+2026-05-23 14:28:10,208 | INFO | Clicking moisturizers category
+2026-05-23 14:28:13,007 | INFO | Switching to moisturizer tab
+2026-05-23 14:28:13,124 | INFO | Moisturizer category opened successfully
+2026-05-23 14:28:23,097 | INFO | Selecting first moisturizer product
+2026-05-23 14:28:23,099 | INFO | Moisturizer Page initialized
+2026-05-23 14:28:25,981 | INFO | First moisturizer product selected
+2026-05-23 14:28:26,113 | INFO | Switched to product page tab successfully
+2026-05-23 14:28:37,763 | INFO | Adding product to bag
+2026-05-23 14:28:37,765 | INFO | Product Page initialized
+2026-05-23 14:28:39,361 | INFO | Product added to bag successfully
+2026-05-23 14:28:40,697 | INFO | Opening cart from product page
+2026-05-23 14:28:40,700 | INFO | Product Page initialized
+2026-05-23 14:28:43,847 | INFO | Cart opened successfully from product page
+2026-05-23 14:28:45,157 | INFO | Refreshing cart page
+2026-05-23 14:28:48,500 | INFO | Cart page refreshed successfully
+2026-05-23 14:28:51,950 | INFO | Checking cart items
+2026-05-23 14:28:51,952 | INFO | Initializing Cart Page
+2026-05-23 14:28:52,939 | INFO | Cart contains 1 item(s)
+2026-05-23 14:28:53,692 | INFO | END SCENARIO: Cart should retain products after refresh
+2026-05-23 14:29:41,831 | INFO | START SCENARIO: Search invalid product
+2026-05-23 14:29:41,862 | INFO | Opening Nykaa website
+2026-05-23 14:29:41,864 | INFO | Initializing Home Page
+2026-05-23 14:29:52,306 | INFO | Nykaa website opened successfully
+2026-05-23 14:29:59,337 | INFO | Searching for product: asdfghjklproduct
+2026-05-23 14:30:12,776 | INFO | Search completed for: asdfghjklproduct
+2026-05-23 14:30:16,092 | INFO | Checking no result message
+2026-05-23 14:30:36,843 | INFO | END SCENARIO: Search invalid product
+2026-05-23 14:30:40,577 | INFO | START SCENARIO: Proceed button should not work for empty cart
+2026-05-23 14:30:40,581 | INFO | Opening Nykaa website
+2026-05-23 14:30:40,582 | INFO | Initializing Home Page
+2026-05-23 14:30:41,374 | INFO | Nykaa website opened successfully
+2026-05-23 14:31:01,219 | INFO | Opening cart
+2026-05-23 14:31:01,220 | INFO | Initializing Home Page
+2026-05-23 14:31:07,542 | INFO | Cart opened successfully
+2026-05-23 14:31:15,786 | INFO | Checking proceed button visibility
+2026-05-23 14:31:15,793 | INFO | Initializing Cart Page
+2026-05-23 14:31:31,781 | ERROR | FAILED STEP: proceed button should be visible
+2026-05-23 14:31:31,805 | INFO | END SCENARIO: Proceed button should not work for empty cart
+2026-05-23 14:34:24,635 | INFO | START SCENARIO: Search invalid product
+2026-05-23 14:34:24,639 | INFO | Opening Nykaa website
+2026-05-23 14:34:24,640 | INFO | Initializing Home Page
+2026-05-23 14:34:26,756 | INFO | Nykaa website opened successfully
+2026-05-23 14:34:27,446 | INFO | Searching for product: asdfghjklproduct
+2026-05-23 14:34:56,509 | INFO | Search completed for: asdfghjklproduct
+2026-05-23 14:34:59,120 | INFO | Checking no result message
+2026-05-23 14:35:20,647 | INFO | END SCENARIO: Search invalid product
+2026-05-23 14:36:05,353 | INFO | START SCENARIO: Search invalid product
+2026-05-23 14:36:05,359 | INFO | Opening Nykaa website
+2026-05-23 14:36:05,360 | INFO | Initializing Home Page
+2026-05-23 14:36:15,210 | INFO | Nykaa website opened successfully
+2026-05-23 14:36:21,187 | INFO | Searching for product: 12qwe3
+2026-05-23 14:36:38,003 | INFO | Search completed for: 12qwe3
+2026-05-23 14:36:38,875 | INFO | Checking no result message
+2026-05-23 14:36:39,190 | INFO | No result message displayed successfully
+2026-05-23 14:36:39,604 | INFO | END SCENARIO: Search invalid product
+2026-05-23 14:38:13,112 | INFO | START SCENARIO: Proceed button should not work for empty cart
+2026-05-23 14:38:13,113 | INFO | Opening Nykaa website
+2026-05-23 14:38:13,113 | INFO | Initializing Home Page
+2026-05-23 14:38:15,013 | INFO | Nykaa website opened successfully
+2026-05-23 14:38:17,253 | INFO | Opening cart
+2026-05-23 14:38:17,255 | INFO | Initializing Home Page
+2026-05-23 14:38:25,844 | INFO | Cart opened successfully
+2026-05-23 14:38:27,522 | INFO | Checking proceed button visibility
+2026-05-23 14:38:27,523 | INFO | Initializing Cart Page
+2026-05-23 14:38:29,274 | ERROR | FAILED STEP: proceed button should be visible
+2026-05-23 14:38:29,279 | INFO | END SCENARIO: Proceed button should not work for empty cart
+2026-05-23 14:47:45,929 | INFO | START SCENARIO: Proceed button should not work for empty cart
+2026-05-23 14:47:45,931 | INFO | Opening Nykaa website
+2026-05-23 14:47:45,931 | INFO | Initializing Home Page
+2026-05-23 14:47:48,069 | INFO | Nykaa website opened successfully
+2026-05-23 14:47:53,721 | INFO | Opening cart
+2026-05-23 14:47:53,724 | INFO | Initializing Home Page
+2026-05-23 14:48:03,136 | INFO | Cart opened successfully
+2026-05-23 14:48:06,607 | INFO | Checking proceed button visibility
+2026-05-23 14:48:06,612 | INFO | Initializing Cart Page
+2026-05-23 14:48:07,078 | INFO | Proceed button is visible
+2026-05-23 14:48:08,390 | INFO | END SCENARIO: Proceed button should not work for empty cart
+2026-05-23 14:52:38,792 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 14:52:38,797 | INFO | Opening Nykaa website
+2026-05-23 14:52:38,797 | INFO | Initializing Home Page
+2026-05-23 14:52:40,721 | INFO | Nykaa website opened successfully
+2026-05-23 14:52:42,981 | INFO | Opening login popup
+2026-05-23 14:52:43,008 | INFO | Login Page initialized
+2026-05-23 14:52:52,658 | INFO | Login popup opened successfully
+2026-05-23 14:52:54,312 | INFO | Selecting mobile or email login option
+2026-05-23 14:52:56,536 | INFO | Mobile or email login option selected successfully
+2026-05-23 14:52:57,372 | INFO | Clicking skip login button
+2026-05-23 14:53:02,295 | INFO | Skip login button clicked successfully
+2026-05-23 14:53:04,802 | INFO | Hovering on skin menu
+2026-05-23 14:53:05,544 | INFO | Hovered on skin menu successfully
+2026-05-23 14:53:06,171 | INFO | Clicking moisturizers category
+2026-05-23 14:53:06,365 | INFO | Switching to moisturizer tab
+2026-05-23 14:53:06,443 | INFO | Moisturizer category opened successfully
+2026-05-23 14:53:16,742 | INFO | Selecting brand: Cetaphil
+2026-05-23 14:53:19,127 | INFO | Brand selected successfully: Cetaphil
+2026-05-23 14:53:20,530 | INFO | Selecting first moisturizer product
+2026-05-23 14:53:20,531 | INFO | Moisturizer Page initialized
+2026-05-23 14:53:21,560 | INFO | First moisturizer product selected
+2026-05-23 14:53:21,599 | INFO | Switched to product page tab successfully
+2026-05-23 14:53:25,927 | INFO | Adding product to bag
+2026-05-23 14:53:25,930 | INFO | Product Page initialized
+2026-05-23 14:53:35,465 | INFO | Product added to bag successfully
+2026-05-23 14:53:38,090 | INFO | Opening cart from product page
+2026-05-23 14:53:38,092 | INFO | Product Page initialized
+2026-05-23 14:53:39,789 | INFO | Cart opened successfully from product page
+2026-05-23 14:53:40,729 | INFO | Clicking proceed button
+2026-05-23 14:53:40,734 | INFO | Initializing Cart Page
+2026-05-23 14:53:46,055 | INFO | Proceed button clicked successfully
+2026-05-23 14:53:50,007 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 15:21:59,167 | INFO | START SCENARIO: Search invalid product
+2026-05-23 15:21:59,174 | INFO | Opening Nykaa website
+2026-05-23 15:21:59,174 | INFO | Initializing Home Page
+2026-05-23 15:22:11,415 | INFO | Nykaa website opened successfully
+2026-05-23 15:22:21,368 | INFO | Searching for product: 12qwe3
+2026-05-23 15:22:35,455 | INFO | Search completed for: 12qwe3
+2026-05-23 15:22:36,618 | INFO | Checking no result message
+2026-05-23 15:22:37,128 | INFO | No result message displayed successfully
+2026-05-23 15:22:37,752 | INFO | END SCENARIO: Search invalid product
+2026-05-23 15:22:41,791 | INFO | START SCENARIO: Proceed button should not work for empty cart
+2026-05-23 15:22:41,799 | INFO | Opening Nykaa website
+2026-05-23 15:22:41,800 | INFO | Initializing Home Page
+2026-05-23 15:22:42,599 | INFO | Nykaa website opened successfully
+2026-05-23 15:22:59,572 | INFO | Opening cart
+2026-05-23 15:22:59,574 | INFO | Initializing Home Page
+2026-05-23 15:23:01,951 | INFO | Cart opened successfully
+2026-05-23 15:23:04,142 | INFO | Checking proceed button visibility
+2026-05-23 15:23:04,142 | INFO | Initializing Cart Page
+2026-05-23 15:23:04,279 | INFO | Proceed button is visible
+2026-05-23 15:23:06,916 | INFO | END SCENARIO: Proceed button should not work for empty cart
+2026-05-23 15:23:13,158 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 15:23:13,166 | INFO | Opening Nykaa website
+2026-05-23 15:23:13,169 | INFO | Initializing Home Page
+2026-05-23 15:23:13,862 | INFO | Nykaa website opened successfully
+2026-05-23 15:23:31,987 | INFO | Opening login popup
+2026-05-23 15:23:31,995 | INFO | Login Page initialized
+2026-05-23 15:23:33,958 | INFO | Login popup opened successfully
+2026-05-23 15:23:36,694 | INFO | Selecting mobile or email login option
+2026-05-23 15:23:46,040 | INFO | Mobile or email login option selected successfully
+2026-05-23 15:23:48,686 | INFO | Clicking skip login button
+2026-05-23 15:23:54,534 | INFO | Skip login button clicked successfully
+2026-05-23 15:23:57,863 | INFO | Hovering on skin menu
+2026-05-23 15:23:58,978 | INFO | Hovered on skin menu successfully
+2026-05-23 15:23:59,715 | INFO | Clicking moisturizers category
+2026-05-23 15:23:59,942 | INFO | Switching to moisturizer tab
+2026-05-23 15:24:00,108 | INFO | Moisturizer category opened successfully
+2026-05-23 15:24:07,487 | INFO | Selecting brand: Cetaphil
+2026-05-23 15:24:11,570 | INFO | Brand selected successfully: Cetaphil
+2026-05-23 15:24:16,011 | INFO | Selecting first moisturizer product
+2026-05-23 15:24:16,014 | INFO | Moisturizer Page initialized
+2026-05-23 15:24:18,778 | INFO | First moisturizer product selected
+2026-05-23 15:24:18,847 | INFO | Switched to product page tab successfully
+2026-05-23 15:24:27,050 | INFO | Adding product to bag
+2026-05-23 15:24:27,056 | INFO | Product Page initialized
+2026-05-23 15:24:29,809 | INFO | Product added to bag successfully
+2026-05-23 15:24:30,878 | INFO | Opening cart from product page
+2026-05-23 15:24:30,878 | INFO | Product Page initialized
+2026-05-23 15:24:33,511 | INFO | Cart opened successfully from product page
+2026-05-23 15:24:34,963 | INFO | Clicking proceed button
+2026-05-23 15:24:34,964 | INFO | Initializing Cart Page
+2026-05-23 15:24:42,150 | INFO | Proceed button clicked successfully
+2026-05-23 15:24:43,138 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 15:24:49,421 | INFO | START SCENARIO: Add same product to cart successfully
+2026-05-23 15:24:49,450 | INFO | Opening Nykaa website
+2026-05-23 15:24:49,467 | INFO | Initializing Home Page
+2026-05-23 15:25:00,300 | INFO | Nykaa website opened successfully
+2026-05-23 15:25:05,269 | INFO | Hovering on skin menu
+2026-05-23 15:25:05,881 | INFO | Hovered on skin menu successfully
+2026-05-23 15:25:07,284 | INFO | Clicking moisturizers category
+2026-05-23 15:25:11,989 | INFO | Switching to moisturizer tab
+2026-05-23 15:25:23,536 | INFO | Moisturizer category opened successfully
+2026-05-23 15:25:24,680 | INFO | Selecting first moisturizer product
+2026-05-23 15:25:24,687 | INFO | Moisturizer Page initialized
+2026-05-23 15:25:32,379 | INFO | First moisturizer product selected
+2026-05-23 15:25:32,467 | INFO | Switched to product page tab successfully
+2026-05-23 15:25:48,084 | INFO | Adding product to bag
+2026-05-23 15:25:48,086 | INFO | Product Page initialized
+2026-05-23 15:25:49,158 | INFO | Product added to bag successfully
+2026-05-23 15:25:50,496 | INFO | Adding product to bag
+2026-05-23 15:25:50,498 | INFO | Product Page initialized
+2026-05-23 15:25:52,834 | INFO | Product added to bag successfully
+2026-05-23 15:25:56,492 | INFO | Opening cart from product page
+2026-05-23 15:25:56,497 | INFO | Product Page initialized
+2026-05-23 15:25:57,102 | INFO | Cart opened successfully from product page
+2026-05-23 15:25:58,453 | INFO | Checking cart items
+2026-05-23 15:25:58,454 | INFO | Initializing Cart Page
+2026-05-23 15:25:58,582 | INFO | Cart contains 1 item(s)
+2026-05-23 15:25:59,243 | INFO | END SCENARIO: Add same product to cart successfully
+2026-05-23 15:26:06,009 | INFO | START SCENARIO: Remove product from cart successfully
+2026-05-23 15:26:06,034 | INFO | Opening Nykaa website
+2026-05-23 15:26:06,044 | INFO | Initializing Home Page
+2026-05-23 15:26:06,892 | INFO | Nykaa website opened successfully
+2026-05-23 15:26:20,662 | INFO | Hovering on skin menu
+2026-05-23 15:26:25,483 | INFO | Hovered on skin menu successfully
+2026-05-23 15:26:28,228 | INFO | Clicking moisturizers category
+2026-05-23 15:26:36,073 | INFO | Switching to moisturizer tab
+2026-05-23 15:26:36,162 | INFO | Moisturizer category opened successfully
+2026-05-23 15:26:48,072 | INFO | Selecting first moisturizer product
+2026-05-23 15:26:48,074 | INFO | Moisturizer Page initialized
+2026-05-23 15:26:49,600 | INFO | First moisturizer product selected
+2026-05-23 15:26:49,642 | INFO | Switched to product page tab successfully
+2026-05-23 15:26:58,860 | INFO | Adding product to bag
+2026-05-23 15:26:58,862 | INFO | Product Page initialized
+2026-05-23 15:26:59,973 | INFO | Product added to bag successfully
+2026-05-23 15:27:01,271 | INFO | Opening cart from product page
+2026-05-23 15:27:01,274 | INFO | Product Page initialized
+2026-05-23 15:27:03,634 | INFO | Cart opened successfully from product page
+2026-05-23 15:27:04,505 | INFO | Deleting product from cart
+2026-05-23 15:27:04,506 | INFO | Initializing Cart Page
+2026-05-23 15:27:05,610 | INFO | Product deleted successfully
+2026-05-23 15:27:06,149 | INFO | Verifying product removal from cart
+2026-05-23 15:27:06,241 | INFO | Product removed successfully
+2026-05-23 15:27:06,707 | INFO | END SCENARIO: Remove product from cart successfully
+2026-05-23 15:27:11,376 | INFO | START SCENARIO: Search valid product successfully
+2026-05-23 15:27:11,386 | INFO | Opening Nykaa website
+2026-05-23 15:27:11,388 | INFO | Initializing Home Page
+2026-05-23 15:27:12,142 | INFO | Nykaa website opened successfully
+2026-05-23 15:27:30,571 | INFO | Searching for product: lipstick
+2026-05-23 15:27:47,773 | INFO | Search completed for: lipstick
+2026-05-23 15:27:50,141 | INFO | Verifying search results
+2026-05-23 15:27:50,277 | INFO | Search results displayed successfully: 20 item(s)
+2026-05-23 15:27:51,789 | INFO | END SCENARIO: Search valid product successfully
+2026-05-23 15:27:59,730 | INFO | START SCENARIO: Cart should retain products after refresh
+2026-05-23 15:27:59,753 | INFO | Opening Nykaa website
+2026-05-23 15:27:59,757 | INFO | Initializing Home Page
+2026-05-23 15:28:01,031 | INFO | Nykaa website opened successfully
+2026-05-23 15:28:20,848 | INFO | Hovering on skin menu
+2026-05-23 15:28:23,212 | INFO | Hovered on skin menu successfully
+2026-05-23 15:28:25,620 | INFO | Clicking moisturizers category
+2026-05-23 15:28:33,969 | INFO | Switching to moisturizer tab
+2026-05-23 15:28:35,451 | INFO | Moisturizer category opened successfully
+2026-05-23 15:28:45,096 | INFO | Selecting first moisturizer product
+2026-05-23 15:28:45,101 | INFO | Moisturizer Page initialized
+2026-05-23 15:28:46,621 | INFO | First moisturizer product selected
+2026-05-23 15:28:46,750 | INFO | Switched to product page tab successfully
+2026-05-23 15:28:53,920 | INFO | Adding product to bag
+2026-05-23 15:28:53,924 | INFO | Product Page initialized
+2026-05-23 15:28:56,670 | INFO | Product added to bag successfully
+2026-05-23 15:29:02,547 | INFO | Opening cart from product page
+2026-05-23 15:29:02,549 | INFO | Product Page initialized
+2026-05-23 15:29:04,627 | INFO | Cart opened successfully from product page
+2026-05-23 15:29:05,734 | INFO | Refreshing cart page
+2026-05-23 15:29:09,255 | INFO | Cart page refreshed successfully
+2026-05-23 15:29:10,048 | INFO | Checking cart items
+2026-05-23 15:29:10,049 | INFO | Initializing Cart Page
+2026-05-23 15:29:10,358 | INFO | Cart contains 1 item(s)
+2026-05-23 15:29:10,971 | INFO | END SCENARIO: Cart should retain products after refresh
+2026-05-23 15:53:58,303 | INFO | START SCENARIO: Add same product to cart successfully
+2026-05-23 15:53:58,376 | INFO | Opening Nykaa website
+2026-05-23 15:53:58,383 | INFO | Initializing Home Page
+2026-05-23 15:53:59,892 | INFO | Nykaa website opened successfully
+2026-05-23 15:54:27,590 | INFO | Hovering on skin menu
+2026-05-23 15:54:33,847 | INFO | Hovered on skin menu successfully
+2026-05-23 15:54:35,518 | INFO | Clicking moisturizers category
+2026-05-23 15:54:36,478 | INFO | Switching to moisturizer tab
+2026-05-23 15:54:36,636 | INFO | Moisturizer category opened successfully
+2026-05-23 15:54:45,406 | INFO | Selecting first moisturizer product
+2026-05-23 15:54:45,410 | INFO | Moisturizer Page initialized
+2026-05-23 15:54:51,892 | INFO | First moisturizer product selected
+2026-05-23 15:54:51,963 | INFO | Switched to product page tab successfully
+2026-05-23 15:55:05,015 | INFO | Adding product to bag
+2026-05-23 15:55:05,017 | INFO | Product Page initialized
+2026-05-23 15:55:05,651 | INFO | Product added to bag successfully
+2026-05-23 15:55:09,655 | INFO | Adding product to bag
+2026-05-23 15:55:09,656 | INFO | Product Page initialized
+2026-05-23 15:55:11,562 | INFO | Product added to bag successfully
+2026-05-23 15:55:12,541 | INFO | Opening cart from product page
+2026-05-23 15:55:12,543 | INFO | Product Page initialized
+2026-05-23 15:55:13,069 | INFO | Cart opened successfully from product page
+2026-05-23 15:55:14,201 | ERROR | FAILED STEP: user opens cart from product page
+2026-05-23 15:55:14,209 | INFO | END SCENARIO: Add same product to cart successfully
+2026-05-23 15:59:00,794 | INFO | START SCENARIO: Add same product to cart successfully
+2026-05-23 15:59:00,796 | INFO | Opening Nykaa website
+2026-05-23 15:59:00,797 | INFO | Initializing Home Page
+2026-05-23 15:59:18,116 | INFO | Nykaa website opened successfully
+2026-05-23 15:59:23,404 | INFO | Hovering on skin menu
+2026-05-23 15:59:30,658 | INFO | Hovered on skin menu successfully
+2026-05-23 15:59:31,955 | INFO | Clicking moisturizers category
+2026-05-23 15:59:32,387 | INFO | Switching to moisturizer tab
+2026-05-23 15:59:32,548 | INFO | Moisturizer category opened successfully
+2026-05-23 15:59:36,715 | INFO | Selecting first moisturizer product
+2026-05-23 15:59:36,719 | INFO | Moisturizer Page initialized
+2026-05-23 15:59:42,710 | INFO | First moisturizer product selected
+2026-05-23 15:59:42,745 | INFO | Switched to product page tab successfully
+2026-05-23 15:59:55,974 | INFO | Adding product to bag
+2026-05-23 15:59:55,976 | INFO | Product Page initialized
+2026-05-23 15:59:58,315 | INFO | Product added to bag successfully
+2026-05-23 16:00:01,438 | INFO | Adding product to bag
+2026-05-23 16:00:01,440 | INFO | Product Page initialized
+2026-05-23 16:00:04,628 | INFO | Product added to bag successfully
+2026-05-23 16:00:05,878 | INFO | Opening cart from product page
+2026-05-23 16:00:05,879 | INFO | Product Page initialized
+2026-05-23 16:00:06,197 | INFO | Cart opened successfully from product page
+2026-05-23 16:00:06,842 | INFO | Checking cart items
+2026-05-23 16:00:06,843 | INFO | Initializing Cart Page
+2026-05-23 16:00:06,891 | INFO | Cart contains 1 item(s)
+2026-05-23 16:00:07,271 | INFO | END SCENARIO: Add same product to cart successfully
+2026-05-23 16:02:36,827 | INFO | START SCENARIO: Search invalid product
+2026-05-23 16:02:36,849 | INFO | Opening Nykaa website
+2026-05-23 16:02:36,852 | INFO | Initializing Home Page
+2026-05-23 16:02:38,045 | INFO | Nykaa website opened successfully
+2026-05-23 16:02:56,000 | INFO | Searching for product: 12qwe3
+2026-05-23 16:03:08,905 | INFO | Search completed for: 12qwe3
+2026-05-23 16:03:10,612 | INFO | Checking no result message
+2026-05-23 16:03:16,245 | INFO | No result message displayed successfully
+2026-05-23 16:03:17,032 | INFO | END SCENARIO: Search invalid product
+2026-05-23 16:03:21,311 | INFO | START SCENARIO: Proceed button should not work for empty cart
+2026-05-23 16:03:21,316 | INFO | Opening Nykaa website
+2026-05-23 16:03:21,319 | INFO | Initializing Home Page
+2026-05-23 16:03:31,056 | INFO | Nykaa website opened successfully
+2026-05-23 16:03:35,676 | INFO | Opening cart
+2026-05-23 16:03:35,677 | INFO | Initializing Home Page
+2026-05-23 16:03:36,331 | INFO | Cart opened successfully
+2026-05-23 16:03:38,469 | INFO | Checking proceed button visibility
+2026-05-23 16:03:38,471 | INFO | Initializing Cart Page
+2026-05-23 16:03:38,598 | INFO | Proceed button is visible
+2026-05-23 16:03:42,045 | INFO | END SCENARIO: Proceed button should not work for empty cart
+2026-05-23 16:03:49,027 | INFO | START SCENARIO: User completes full product purchase flow till cart
+2026-05-23 16:03:49,038 | INFO | Opening Nykaa website
+2026-05-23 16:03:49,039 | INFO | Initializing Home Page
+2026-05-23 16:04:01,155 | INFO | Nykaa website opened successfully
+2026-05-23 16:04:04,681 | INFO | Opening login popup
+2026-05-23 16:04:04,686 | INFO | Login Page initialized
+2026-05-23 16:04:04,942 | INFO | Login popup opened successfully
+2026-05-23 16:04:08,506 | INFO | Selecting mobile or email login option
+2026-05-23 16:04:08,508 | INFO | Initializing Login Page
+2026-05-23 16:04:14,620 | INFO | Mobile or email login option selected successfully
+2026-05-23 16:04:15,883 | INFO | Clicking skip login button
+2026-05-23 16:04:15,884 | INFO | Initializing Login Page
+2026-05-23 16:04:23,714 | INFO | Skip login button clicked successfully
+2026-05-23 16:04:25,244 | INFO | Hovering on skin menu
+2026-05-23 16:04:25,725 | INFO | Hovered on skin menu successfully
+2026-05-23 16:04:26,209 | INFO | Clicking moisturizers category
+2026-05-23 16:04:26,388 | INFO | Switching to moisturizer tab
+2026-05-23 16:04:26,517 | INFO | Moisturizer category opened successfully
+2026-05-23 16:04:31,118 | INFO | Selecting brand: Cetaphil
+2026-05-23 16:04:36,309 | INFO | Brand selected successfully: Cetaphil
+2026-05-23 16:04:38,119 | INFO | Selecting first moisturizer product
+2026-05-23 16:04:38,123 | INFO | Moisturizer Page initialized
+2026-05-23 16:04:39,344 | INFO | First moisturizer product selected
+2026-05-23 16:04:39,438 | INFO | Switched to product page tab successfully
+2026-05-23 16:04:47,728 | INFO | Adding product to bag
+2026-05-23 16:04:47,734 | INFO | Product Page initialized
+2026-05-23 16:04:49,813 | INFO | Product added to bag successfully
+2026-05-23 16:04:54,636 | INFO | Opening cart from product page
+2026-05-23 16:04:54,639 | INFO | Product Page initialized
+2026-05-23 16:04:55,215 | INFO | Cart opened successfully from product page
+2026-05-23 16:04:56,090 | INFO | Clicking proceed button
+2026-05-23 16:04:56,091 | INFO | Initializing Cart Page
+2026-05-23 16:04:59,120 | INFO | Proceed button clicked successfully
+2026-05-23 16:05:00,598 | INFO | END SCENARIO: User completes full product purchase flow till cart
+2026-05-23 16:05:06,392 | INFO | START SCENARIO: Add same product to cart successfully
+2026-05-23 16:05:06,399 | INFO | Opening Nykaa website
+2026-05-23 16:05:06,399 | INFO | Initializing Home Page
+2026-05-23 16:05:07,424 | INFO | Nykaa website opened successfully
+2026-05-23 16:05:21,850 | INFO | Hovering on skin menu
+2026-05-23 16:05:22,503 | INFO | Hovered on skin menu successfully
+2026-05-23 16:05:23,587 | INFO | Clicking moisturizers category
+2026-05-23 16:05:24,328 | INFO | Switching to moisturizer tab
+2026-05-23 16:05:24,452 | INFO | Moisturizer category opened successfully
+2026-05-23 16:05:32,760 | INFO | Selecting first moisturizer product
+2026-05-23 16:05:32,764 | INFO | Moisturizer Page initialized
+2026-05-23 16:05:35,744 | INFO | First moisturizer product selected
+2026-05-23 16:05:35,847 | INFO | Switched to product page tab successfully
+2026-05-23 16:05:45,773 | INFO | Adding product to bag
+2026-05-23 16:05:45,777 | INFO | Product Page initialized
+2026-05-23 16:05:46,813 | INFO | Product added to bag successfully
+2026-05-23 16:05:50,247 | INFO | Adding product to bag
+2026-05-23 16:05:50,249 | INFO | Product Page initialized
+2026-05-23 16:05:52,382 | INFO | Product added to bag successfully
+2026-05-23 16:05:52,790 | INFO | Opening cart from product page
+2026-05-23 16:05:52,791 | INFO | Product Page initialized
+2026-05-23 16:05:53,282 | INFO | Cart opened successfully from product page
+2026-05-23 16:05:54,404 | INFO | Checking cart items
+2026-05-23 16:05:54,406 | INFO | Initializing Cart Page
+2026-05-23 16:05:54,587 | INFO | Cart contains 1 item(s)
+2026-05-23 16:05:55,581 | INFO | END SCENARIO: Add same product to cart successfully
+2026-05-23 16:06:03,833 | INFO | START SCENARIO: Remove product from cart successfully
+2026-05-23 16:06:03,911 | INFO | Opening Nykaa website
+2026-05-23 16:06:03,926 | INFO | Initializing Home Page
+2026-05-23 16:06:05,466 | INFO | Nykaa website opened successfully
+2026-05-23 16:06:21,399 | INFO | Hovering on skin menu
+2026-05-23 16:06:22,553 | INFO | Hovered on skin menu successfully
+2026-05-23 16:06:24,376 | INFO | Clicking moisturizers category
+2026-05-23 16:06:31,575 | INFO | Switching to moisturizer tab
+2026-05-23 16:06:31,737 | INFO | Moisturizer category opened successfully
+2026-05-23 16:06:47,470 | INFO | Selecting first moisturizer product
+2026-05-23 16:06:47,473 | INFO | Moisturizer Page initialized
+2026-05-23 16:06:48,255 | INFO | First moisturizer product selected
+2026-05-23 16:06:48,305 | INFO | Switched to product page tab successfully
+2026-05-23 16:06:58,651 | INFO | Adding product to bag
+2026-05-23 16:06:58,685 | INFO | Product Page initialized
+2026-05-23 16:07:00,872 | INFO | Product added to bag successfully
+2026-05-23 16:07:04,158 | INFO | Opening cart from product page
+2026-05-23 16:07:04,160 | INFO | Product Page initialized
+2026-05-23 16:07:04,726 | INFO | Cart opened successfully from product page
+2026-05-23 16:07:05,432 | INFO | Deleting product from cart
+2026-05-23 16:07:05,435 | INFO | Initializing Cart Page
+2026-05-23 16:07:06,477 | INFO | Product deleted successfully
+2026-05-23 16:07:07,110 | INFO | Verifying product removal from cart
+2026-05-23 16:07:07,235 | INFO | Product removed successfully
+2026-05-23 16:07:07,733 | INFO | END SCENARIO: Remove product from cart successfully
+2026-05-23 16:07:12,146 | INFO | START SCENARIO: Search valid product successfully
+2026-05-23 16:07:12,150 | INFO | Opening Nykaa website
+2026-05-23 16:07:12,152 | INFO | Initializing Home Page
+2026-05-23 16:07:27,018 | INFO | Nykaa website opened successfully
+2026-05-23 16:07:32,334 | INFO | Searching for product: lipstick
+2026-05-23 16:07:51,558 | INFO | Search completed for: lipstick
+2026-05-23 16:07:57,412 | INFO | Verifying search results
+2026-05-23 16:07:58,978 | INFO | Search results displayed successfully: 20 item(s)
+2026-05-23 16:08:00,885 | INFO | END SCENARIO: Search valid product successfully
+2026-05-23 16:08:06,743 | INFO | START SCENARIO: Cart should retain products after refresh
+2026-05-23 16:08:06,816 | INFO | Opening Nykaa website
+2026-05-23 16:08:06,862 | INFO | Initializing Home Page
+2026-05-23 16:08:07,761 | INFO | Nykaa website opened successfully
+2026-05-23 16:08:26,869 | INFO | Hovering on skin menu
+2026-05-23 16:08:36,445 | INFO | Hovered on skin menu successfully
+2026-05-23 16:08:37,965 | INFO | Clicking moisturizers category
+2026-05-23 16:08:38,701 | INFO | Switching to moisturizer tab
+2026-05-23 16:08:38,784 | INFO | Moisturizer category opened successfully
+2026-05-23 16:08:50,868 | INFO | Selecting first moisturizer product
+2026-05-23 16:08:50,869 | INFO | Moisturizer Page initialized
+2026-05-23 16:08:53,029 | INFO | First moisturizer product selected
+2026-05-23 16:08:53,098 | INFO | Switched to product page tab successfully
+2026-05-23 16:09:07,233 | INFO | Adding product to bag
+2026-05-23 16:09:07,242 | INFO | Product Page initialized
+2026-05-23 16:09:08,984 | INFO | Product added to bag successfully
+2026-05-23 16:09:18,024 | INFO | Opening cart from product page
+2026-05-23 16:09:18,031 | INFO | Product Page initialized
+2026-05-23 16:09:19,631 | INFO | Cart opened successfully from product page
+2026-05-23 16:09:21,272 | INFO | Refreshing cart page
+2026-05-23 16:09:24,375 | INFO | Cart page refreshed successfully
+2026-05-23 16:09:27,273 | INFO | Checking cart items
+2026-05-23 16:09:27,279 | INFO | Initializing Cart Page
+2026-05-23 16:09:28,135 | INFO | Cart contains 1 item(s)
+2026-05-23 16:09:30,302 | INFO | END SCENARIO: Cart should retain products after refresh
